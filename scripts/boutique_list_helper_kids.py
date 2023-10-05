@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 # Use a raw string literal for the file path
-file_path = r'scripts\assets\data_kids.xlsx'
+file_path = r'scripts/assets/data_kids.xlsx'
 
 # Read the Excel file
 df = pd.read_excel(file_path, header=0)
@@ -53,7 +53,7 @@ draft_invoices = grouped_data[grouped_data['Invoice Status'] == 'Draft']
 approved_invoices = grouped_data[grouped_data['Invoice Status'] != 'Draft']
 
 # Output the contents of the draft invoices dataframe to Excel
-draft_invoices.to_excel('draft_invoices.xlsx', index=False)
+draft_invoices.to_excel('draft_invoices_kids.xlsx', index=False)
 
 # Output the contents of the approved invoices dataframe to Excel
 # approved_invoices.to_excel('approved_invoices.xlsx', index=False)
