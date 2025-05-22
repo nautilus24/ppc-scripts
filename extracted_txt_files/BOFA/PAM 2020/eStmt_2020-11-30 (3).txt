@@ -1,0 +1,444 @@
+Withdrawals and other debits -144,865.87
+# of items-previous cycle¹: 43
+Checks -81,193.46
+# of days in cycle: 30
+Service fees -0.00 Average ledger balance: $1,018,236.57
+Ending balance on November 30, 2020 $909,856.03 ¹Includes checks paid,deposited items&other debits
+PULL: E CYCLE: 67 SPEC: E DELIVERY: E TYPE: IMAGE: I BC: CA9 Page 1 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+IMPORTANT INFORMATION:
+BANK DEPOSIT ACCOUNTS
+How to Contact Us - You may call us at the telephone number listed on the front of this statement.
+Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address,
+email and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of
+Online Banking.
+Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your
+account would be governed by the terms of these documents, as we may amend them from time to time. These documents are
+part of the contract for your deposit account and govern all transactions relating to your account, including all deposits and
+withdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and
+conditions of your account relationship may be obtained at our financial centers.
+Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is
+wrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,
+point-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of
+this statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on
+which the error or problem appeared.
+- Tell us your name and account number.
+- Describe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error
+or why you need more information.
+- Tell us the dollar amount of the suspected error.
+For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will
+correct any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20
+business days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is
+made to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will
+have use of the money during the time it will take to complete our investigation.
+For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our
+investigation.
+Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover
+errors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an
+unauthorized transaction within the time period specified in the deposit agreement (which periods are no more than 60 days
+after we make the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to
+not make a claim against us, for the problems or unauthorized transactions.
+Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same
+person or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online
+or visit a financial center for information.
+©2020 Bank of America Corporation
+Page 2 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Deposits and other credits
+Date Description Amount
+11/02/20 Square Inc DES:201102P2 ID:L208573829766 INDN:Precision Apparel Manu CO 6,415.64
+ID:9424300002 PPD
+11/03/20 Square Inc DES:201103P2 ID:L208574110564 INDN:Precision Apparel Manu CO 1,259.95
+ID:9424300002 PPD
+11/03/20 FashionGo DES:FashionGo ID:ST-S5Q4P2B5V3Y9 INDN:RAM NARAYANAN CO 205.76
+ID:1800948598 CCD
+11/04/20 URBAN OUTFITTERS DES:EDI PYMNTS ID:517012 INDN:RAJ NARAYANAN CO 3,588.74
+ID:2232003332 CCD
+11/04/20 Square Inc DES:201104P2 ID:L208574324685 INDN:Precision Apparel Manu CO 924.81
+ID:9424300002 PPD
+11/05/20 Square Inc DES:201105P2 ID:L208574650973 INDN:Precision Apparel Manu CO 2,865.97
+ID:9424300002 PPD
+11/05/20 Shopify DES:TRANSFER ID:ST-J5T0N7G1F0R8 INDN:RAM NARAYANAN CO 137.16
+ID:1800948598 CCD
+11/06/20 WIRE TYPE:INTL IN DATE:201106 TIME:0531 ET TRN:2020110600122363 5,400.00
+SEQ:952800355IMT/115202 ORIG:BLACKSTAR HOLDINGS LIMITE ID:26946037USD20
+11/06/20 Square Inc DES:201106P2 ID:L208575039297 INDN:Precision Apparel Manu CO 1,343.54
+ID:9424300002 PPD
+11/06/20 FashionGo DES:FashionGo ID:ST-B8V7N4G4Q6L7 INDN:RAM NARAYANAN CO 421.09
+ID:1800948598 CCD
+11/09/20 Square Inc DES:201109P2 ID:L208575677082 INDN:Precision Apparel Manu CO 899.49
+ID:9424300002 PPD
+11/09/20 Shopify DES:TRANSFER ID:ST-F4E2C1C2O0P1 INDN:RAM NARAYANAN CO 97.69
+ID:1800948598 CCD
+11/10/20 Counter Credit 11,551.10
+11/10/20 Square Inc DES:201110P2 ID:L208575929483 INDN:Precision Apparel Manu CO 1,014.26
+ID:9424300002 PPD
+11/10/20 Shopify DES:TRANSFER ID:ST-P6I8D2X0T5L2 INDN:RAM NARAYANAN CO 204.14
+ID:1800948598 CCD
+continued on the next page
+Page 3 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Deposits and other credits - continued
+Date Description Amount
+11/12/20 Square Inc DES:201111P2 ID:L208576162136 INDN:Precision Apparel Manu CO 1,339.49
+ID:9424300002 PPD
+11/12/20 Square Inc DES:201112P2 ID:L208576526317 INDN:Precision Apparel Manu CO 665.63
+ID:9424300002 PPD
+11/12/20 Shopify DES:TRANSFER ID:ST-Q0H2N8K6X8P8 INDN:RAM NARAYANAN CO 63.14
+ID:1800948598 CCD
+11/13/20 Square Inc DES:201113P2 ID:L208576870089 INDN:Precision Apparel Manu CO 442.93
+ID:9424300002 PPD
+11/13/20 Shopify DES:TRANSFER ID:ST-M7H1F1B9Q7G2 INDN:RAM NARAYANAN CO 91.35
+ID:1800948598 CCD
+11/16/20 Square Inc DES:201116P2 ID:L208577504678 INDN:Precision Apparel Manu CO 5,666.24
+ID:9424300002 PPD
+11/16/20 BKOFAMERICA ATM 11/14 #000007280 DEPOSIT 95 WALL STREET NEW YORK NY 4,080.00
+11/16/20 Square Inc DES:201116P2 ID:L208577504677 INDN:Precision Apparel Manu CO 299.78
+ID:9424300002 PPD
+11/16/20 BKOFAMERICA ATM 11/14 #000007304 DEPOSIT 95 WALL STREET NEW YORK NY 108.00
+11/17/20 Square Inc DES:201117P2 ID:L208577762999 INDN:Precision Apparel Manu CO 1,666.70
+ID:9424300002 PPD
+11/17/20 BKOFAMERICA ATM 11/17 #000009304 DEPOSIT LINCOLN-TUSTIN ORANGE CA 248.24
+11/17/20 Shopify DES:TRANSFER ID:ST-K4X4U3J2Z6F9 INDN:RAM NARAYANAN CO 54.08
+ID:1800948598 CCD
+11/18/20 BKOFAMERICA ATM 11/18 #000006282 DEPOSIT 95 WALL STREET NEW YORK NY 4,494.00
+11/18/20 UBM INC DES:PAYMENTS ID:XXXXXXXXX INDN:Precision Apparel Manu CO ID:3032612001 2,995.00
+CCD
+11/18/20 Square Inc DES:201118P2 ID:L208578045900 INDN:Precision Apparel Manu CO 704.73
+ID:9424300002 PPD
+11/19/20 Square Inc DES:201119P2 ID:L208578351690 INDN:Precision Apparel Manu CO 2,046.84
+ID:9424300002 PPD
+11/19/20 Shopify DES:TRANSFER ID:ST-K1M9W5F8E5V1 INDN:RAM NARAYANAN CO 71.54
+ID:1800948598 CCD
+11/20/20 Square Inc DES:201120P2 ID:L208578649577 INDN:Precision Apparel Manu CO 761.22
+ID:9424300002 PPD
+11/23/20 Square Inc DES:201123P2 ID:L208579318755 INDN:Precision Apparel Manu CO 544.88
+ID:9424300002 PPD
+11/23/20 Square Inc DES:201123P2 ID:L208579318756 INDN:Precision Apparel Manu CO 176.37
+ID:9424300002 PPD
+11/24/20 Square Inc DES:201124P2 ID:L208579588003 INDN:Precision Apparel Manu CO 3,087.56
+ID:9424300002 PPD
+11/25/20 Square Inc DES:201125P2 ID:L208579860659 INDN:Precision Apparel Manu CO 5,665.33
+ID:9424300002 PPD
+11/25/20 FashionGo DES:FashionGo ID:ST-R0V4W1H2C3H2 INDN:RAM NARAYANAN CO 145.11
+ID:1800948598 CCD
+continued on the next page
+Page 4 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Deposits and other credits - continued
+Date Description Amount
+11/25/20 Shopify DES:TRANSFER ID:ST-K4T2T4F1T9O9 INDN:RAM NARAYANAN CO 52.13
+ID:1800948598 CCD
+11/27/20 WIRE TYPE:INTL IN DATE:201127 TIME:0543 ET TRN:2020112700214348 5,131.00
+SEQ:952800365IMT/226004 ORIG:BLACKSTAR HOLDINGS LIMITE ID:123109015676600
+11/27/20 Square Inc DES:201126P2 ID:L208580187166 INDN:Precision Apparel Manu CO 554.47
+ID:9424300002 PPD
+11/27/20 FashionGo DES:FashionGo ID:ST-N2Y7P0L4P4L9 INDN:RAM NARAYANAN CO 301.02
+ID:1800948598 CCD
+11/27/20 BKOFAMERICA ATM 11/26 #000009417 DEPOSIT GLEN ROCK GLEN ROCK NJ 200.00
+11/30/20 Shopify DES:TRANSFER ID:ST-U6R7G6L9A6W0 INDN:RAM NARAYANAN CO 433.46
+ID:1800948598 CCD
+11/30/20 Online Banking transfer from CHK 2365 Confirmation# 3353872596 118.12
+11/30/20 FashionGo DES:FashionGo ID:ST-I8T5J2P4H8W8 INDN:RAM NARAYANAN CO 116.34
+ID:1800948598 CCD
+Total deposits and other credits $78,654.04
+Withdrawals and other debits
+Date Description Amount
+11/02/20 AMERICAN EXPRESS DES:ACH PMT ID:W7896 INDN:Precision Apparel Manu CO -522.18
+ID:1133133497 CCD
+11/03/20 CAPITAL ONE DES:ONLINE PMT ID:3B1VLY3DG3NRD3O INDN:RAM NARAYANAN CO -678.37
+ID:9279744991 CCD
+11/03/20 AMERICAN EXPRESS DES:ACH PMT ID:W8796 INDN:Precision Apparel Manu CO -417.01
+ID:1133133497 CCD
+11/04/20 CHASE CREDIT CRD DES:EPAY ID:4959913406 INDN:RAM NARAYANAN CO -2,390.20
+ID:5760039224 WEB
+11/05/20 CHASE CREDIT CRD DES:EPAY ID:4962498324 INDN:RAM NARAYANAN CO -615.54
+ID:5760039224 WEB
+11/05/20 CAPITAL ONE DES:ONLINE PMT ID:3B2AQ5C8BUJ0RH0 INDN:RAM NARAYANAN CO -439.31
+ID:9279744991 CCD
+11/06/20 CHASE CREDIT CRD DES:EPAY ID:4964346271 INDN:RAM NARAYANAN CO -314.45
+ID:5760039224 WEB
+11/06/20 CHASE CREDIT CRD DES:EPAY ID:4964934626 INDN:RAJ NARAYANAN CO -84.40
+ID:5760039224 WEB
+11/09/20 AMERICAN EXPRESS DES:ACH PMT ID:W2310 INDN:Precision Apparel Manu CO -643.52
+ID:1133133497 CCD
+11/09/20 CHASE CREDIT CRD DES:EPAY ID:4968102745 INDN:RAM NARAYANAN CO -428.19
+ID:5760039224 WEB
+11/09/20 CAPITAL ONE DES:ONLINE PMT ID:3B2J38ENHCSTJX0 INDN:RAM NARAYANAN CO -371.23
+ID:9279744991 CCD
+11/10/20 CHASE CREDIT CRD DES:EPAY ID:4970378257 INDN:RAM NARAYANAN CO -645.41
+ID:5760039224 WEB
+11/12/20 Zelle Transfer Conf# 5c602937b; Dixon Westbay Showroom LLC -5,000.00
+continued on the next page
+Page 5 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Withdrawals and other debits - continued
+Date Description Amount
+11/12/20 CHASE CREDIT CRD DES:EPAY ID:4974074528 INDN:RAM NARAYANAN CO -998.36
+ID:5760039224 WEB
+11/13/20 CON ED OF NY DES:INTELL CK ID:401001110812099 INDN:RAJ NARAYANAN CO -47.65
+ID:2462467002 PPD
+11/16/20 CAPITAL ONE DES:ONLINE PMT ID:3B46EG4J61FISYC INDN:RAM NARAYANAN CO -35,278.95
+ID:9279744991 CCD
+11/16/20 CHASE CREDIT CRD DES:EPAY ID:4980183599 INDN:RAM NARAYANAN CO -569.41
+ID:5760039224 WEB
+11/16/20 AMERICAN EXPRESS DES:ACH PMT ID:W7228 INDN:Precision Apparel Manu CO -446.96
+ID:1133133497 CCD
+11/17/20 CHASE CREDIT CRD DES:EPAY ID:4981457497 INDN:RAM NARAYANAN CO -569.41
+ID:5760039224 WEB
+11/17/20 HONDA PMT DES:8007086555 ID:2M4FEFX43P3CWCB INDN:RAM NARAYANAN CO -326.49
+ID:AXXXXXXXXX PPD
+11/18/20 AMERICAN EXPRESS DES:ACH PMT ID:W9960 INDN:Precision Apparel Manu CO -1,529.57
+ID:1133133497 CCD
+11/18/20 AMERICAN EXPRESS DES:ACH PMT ID:W3542 INDN:Precision Apparel Manu CO -403.02
+ID:1133133497 CCD
+11/18/20 AMERICAN EXPRESS DES:ACH PMT ID:W2478 INDN:Precision Apparel Manu CO -196.30
+ID:1133133497 CCD
+11/19/20 CAPITAL ONE DES:ONLINE PMT ID:3B593B07E49B02C INDN:RAM NARAYANAN CO -3,934.52
+ID:9279744991 CCD
+11/19/20 CHASE CREDIT CRD DES:EPAY ID:4985106751 INDN:RAM NARAYANAN CO -555.68
+ID:5760039224 WEB
+11/20/20 Online Banking transfer to CHK 2365 Confirmation# 2389314716 -31.70
+11/20/20 CHASE CREDIT CRD DES:EPAY ID:4987504325 INDN:RAM NARAYANAN CO -624.09
+ID:5760039224 WEB
+11/23/20 Zelle Transfer Conf# d239e0ab3; Dixon Westbay Showroom LLC -8,482.21
+11/23/20 CAPITAL ONE DES:ONLINE PMT ID:3B5OC8P9JJEDGD0 INDN:RAM NARAYANAN CO -4,708.08
+ID:9279744991 CCD
+11/23/20 AMERICAN EXPRESS DES:ACH PMT ID:W4946 INDN:Precision Apparel Manu CO -140.46
+ID:1133133497 CCD
+11/23/20 AMERICAN EXPRESS DES:ACH PMT ID:W4392 INDN:Precision Apparel Manu CO -133.98
+ID:1133133497 CCD
+11/23/20 CHASE CREDIT CRD DES:EPAY ID:4992505938 INDN:BALAN NARAYANAN CO -95.00
+ID:5760039224 WEB
+11/25/20 JPMorgan Chase DES:Ext Trnsfr ID:10683008986 INDN:RAM NARAYANAN CO -1,175.55
+ID:9200502231 CCD
+11/25/20 CHASE CREDIT CRD DES:EPAY ID:4995061642 INDN:RAM NARAYANAN CO -922.59
+ID:5760039224 WEB
+11/25/20 AMERICAN EXPRESS DES:ACH PMT ID:W1490 INDN:Precision Apparel Manu CO -662.50
+ID:1133133497 CCD
+11/25/20 VERIZON DES:PAYMENTREC ID:6562798880001 INDN:BALANNARAYANAN CO -164.99
+ID:9783397101 WEB
+11/27/20 S AND S ACTIVEWE DES:SSACTIVEWR ID:M62691727231 INDN:PRECISION APPAREL MANU CO -32,920.00
+ID:1911718107 PPD
+11/27/20 CAPITAL ONE DES:ONLINE PMT ID:3B6QMHHMAERALG4 INDN:RAM NARAYANAN CO -401.13
+ID:9279744991 CCD
+11/27/20 AMERICAN EXPRESS DES:ACH PMT ID:W5072 INDN:Precision Apparel Manu CO -399.85
+ID:1133133497 CCD
+continued on the next page
+Page 6 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Withdrawals and other debits - continued
+Date Description Amount
+11/27/20 CHASE CREDIT CRD DES:EPAY ID:4998302656 INDN:RAM NARAYANAN CO -223.21
+ID:5760039224 WEB
+11/30/20 Online Banking transfer to CHK 2365 Confirmation# 1558483795 -31,000.00
+11/30/20 Zelle Transfer Conf# af66e79a3; Byson LLC -1,000.00
+11/30/20 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -371.42
+ID:9200704262 PPD
+Card account # XXXX XXXX XXXX 5049
+11/10/20 BKOFAMERICA ATM 11/10 #000009459 WITHDRWL HOLLYWOOD MAIN HOLLYWOOD CA -250.00
+11/12/20 BKOFAMERICA ATM 11/10 #000005415 WITHDRWL SIXTH & CENTRAL LOS ANGELES CA -200.00
+Subtotal for card account # XXXX XXXX XXXX 5049 -$450.00
+Card account # XXXX XXXX XXXX 8908
+11/03/20 ARCO #42289 11/03 #000245290 PURCHASE ARCO #42289 COMMERCE CA -10.99
+11/06/20 ARCO #42289 11/06 #000792745 PURCHASE ARCO #42289 COMMERCE CA -41.99
+11/06/20 BKOFAMERICA ATM 11/06 #000009882 WITHDRWL LINCOLN-TUSTIN ORANGE CA -400.00
+11/09/20 BKOFAMERICA ATM 11/07 #000005929 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+11/13/20 BKOFAMERICA ATM 11/13 #000007966 WITHDRWL LINCOLN-TUSTIN ORANGE CA -400.00
+11/16/20 BKOFAMERICA ATM 11/14 #000008425 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+11/16/20 BKOFAMERICA ATM 11/15 #000009515 WITHDRWL VENICE VENICE CA -300.00
+11/23/20 BKOFAMERICA ATM 11/21 #000006400 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+11/30/20 BKOFAMERICA ATM 11/30 #000006417 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+Subtotal for card account # XXXX XXXX XXXX 8908 -$3,552.98
+Total withdrawals and other debits -$144,865.87
+Checks
+Date Check # Amount Date Check # Amount
+11/17/20 3483 -5,233.60 11/30/20 3596 -465.00
+11/23/20 3484 -1,617.80 11/13/20 3597 -280.00
+11/23/20 3580* -3,603.84 11/23/20 3598 -1,400.00
+11/24/20 3582* -2,423.74 11/20/20 3599 -12,680.00
+11/02/20 3587* -3,611.00 11/02/20 5083* -2,500.00
+11/02/20 3588 -380.00 11/13/20 5084 -1,030.00
+11/09/20 3589 -9,380.00 11/19/20 5085 -4,200.00
+11/12/20 3590 -9,180.00 11/30/20 5096* -5,620.00
+11/06/20 3591 -345.00 11/25/20 5097 -803.60
+11/09/20 3592 -4,453.00 11/25/20 5101* -400.00
+11/16/20 3593 -3,108.00 11/23/20 5126* -373.80
+11/13/20 3594 -3,000.00 11/19/20 5127 -1,087.08
+11/12/20 3595 -1,778.00 11/18/20 5128 -525.00
+continued on the next page
+Page 7 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Checks - continued
+Date Check # Amount Date Check # Amount
+11/23/20 5129 -1,715.00
+Total checks -$81,193.46
+Total # of checks 27
+* There is a gap in sequential check numbers
+Service fees
+The Monthly Fee on your Business Advantage Checking account was waived for the statement period ending 10/30/20. A check mark below
+indicates the requirement(s) you have met to qualify for the Monthly Fee waiver on the account.
+$2,500+ in new net purchases on a linked Business credit card
+$15,000+ average monthly balance in primary checking account
+$35,000+ combined average monthly balance in linked business accounts
+active use of Bank of America Merchant Services
+active use of Payroll Services
+enrolled in Preferred Rewards for Business
+For information on how to open a new product, link an existing service to your account, or about Preferred Rewards for Business please call
+1.888.BUSINESS or visit bankofamerica.com/smallbusiness.
+Date Transaction description Amount
+11/06/20 Prfd Rwds for Bus-Intl Wire Fee Waiver of $16 -0.00
+11/27/20 Prfd Rwds for Bus-Intl Wire Fee Waiver of $16 -0.00
+Total service fees -$0.00
+Note your Ending Balance already reflects the subtraction of Service Fees.
+Page 8 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Daily ledger balances
+Date Balance ($) Date Balance($) Date Balance ($)
+11/01 1,057,261.32 11/10 1,064,068.87 11/20 995,753.99
+11/02 1,056,663.78 11/12 1,048,980.77 11/23 973,605.07
+11/03 1,057,023.12 11/13 1,044,757.40 11/24 974,268.89
+11/04 1,059,146.47 11/16 1,014,608.10 11/25 976,002.23
+11/05 1,061,094.75 11/17 1,010,447.62 11/27 948,244.53
+11/06 1,067,073.54 11/18 1,015,987.46 11/30 909,856.03
+11/09 1,052,194.78 11/19 1,008,328.56
+Page 9 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+This page intentionally left blank
+Page 10 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Check images
+Account number: 3250 8139 8050
+Check number: 3483 ! Amount: $5,233.60 Check number: 3484 ! Amount: $1,617.80
+Check number: 3580 ! Amount: $3,603.84 Check number: 3582 ! Amount: $2,423.74
+Check number: 3587 ! Amount: $3,611.00 Check number: 3588 ! Amount: $380.00
+Check number: 3589 ! Amount: $9,380.00 Check number: 3590 ! Amount: $9,180.00
+Check number: 3591 ! Amount: $345.00 Check number: 3592 ! Amount: $4,453.00
+continued on the next page
+Page 11 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 3593 ! Amount: $3,108.00 Check number: 3594 ! Amount: $3,000.00
+Check number: 3595 ! Amount: $1,778.00 Check number: 3596 ! Amount: $465.00
+Check number: 3597 ! Amount: $280.00 Check number: 3598 ! Amount: $1,400.00
+Check number: 3599 ! Amount: $12,680.00 Check number: 5083 ! Amount: $2,500.00
+Check number: 5084 ! Amount: $1,030.00 Check number: 5085 ! Amount: $4,200.00
+continued on the next page
+Page 12 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 5096 ! Amount: $5,620.00 Check number: 5097 ! Amount: $803.60
+Check number: 5101 ! Amount: $400.00 Check number: 5126 ! Amount: $373.80
+Check number: 5127 ! Amount: $1,087.08 Check number: 5128 ! Amount: $525.00
+Check number: 5129 ! Amount: $1,715.00
+Page 13 of 16
+Important Messages - Please Read
+We want to make sure you stay up-to-date on changes, reminders, and other important details that
+could impact you.
+The information shown below lists changes that may apply to your Small Business checking and savings accounts
+and when these changes will become effective. You will also see some changes to the options you have to avoid the
+Monthly Fee on your accounts.
+Account Changes Effective Date What to Expect After the Changes Become Effective
+Business Advantage Checking will become Business February 19, 2021 You will see the new name on your statements, in Mobile banking and in
+Advantage Relationship Banking. Business Advantage 360, our small business online banking.
+Business Advantage Relationship Banking Account statement To avoid the Monthly Fee, meet any ONE of the following requirements
+cycles on or after during each statement cycle:
+The Monthly Fee of $29.95 will no longer be waived based on: January 30, 2021 · Maintain a combined average monthly balance of $15,000 or more in
+your linked Bank of America business deposit accounts. Previously, the
+· $15,000 average monthly balance. combined average monthly balance requirement was $35,000.
+· Active payroll services usage with Intuit or ADP Payroll · Qualify for and enroll in Preferred Rewards for Business (Footnote 2)
+Services (Footnote 1) beginning December 1, 2020. (first four checking accounts per enrolled business).
+· Spend $2,500 in new net purchases on a linked business
+Please review the Business Schedule of Fees for the state in which you
+credit card.
+opened your account for additional details about the ways to avoid the
+· Active Bank of America Merchant Services account linked to
+Monthly Fee at: bankofamerica.com/businessfeesataglance.
+a Bank of America settlement account beginning January 1,
+2021.
+Business Fundamentals Checking will become Business February 19, 2021 You will see the new name on your statements, in Mobile banking and in
+Advantage Fundamentals Banking. Business Advantage 360, our small business online banking.
+Business Advantage Fundamentals Banking Account statement Depending on the state in which your account was opened, the $16
+cycles on or after Monthly Fee may be a decrease, increase or remain unchanged.
+Monthly Fee will be $16 in all states. (Previously the monthly January 30, 2021 To avoid the Monthly Fee, meet any ONE of the following
+fee varied by state). requirements during each statement cycle:
+· Maintain a combined average monthly balance of $5,000 or more in
+The Monthly Fee will no longer be waived based on: your linked Bank of America deposit accounts. Previously the
+combined average monthly balance requirement was $15,000.
+· $3,000 minimum daily balance. · Spend $250 or more in new net purchases on a linked business debit
+· $5,000 average monthly balance. card.
+· Spend $250 or more in new net purchases on a linked · Qualify for and enroll in Preferred Rewards for Business (first four
+business credit card. checking accounts per enrolled business).
+Please review the Business Schedule of Fees for the state in which you
+opened your account for additional details about the ways to avoid the
+Monthly Fee at: bankofamerica.com/businessfeesataglance.
+Business Investment Account February 19, 2021 If you already have a Business Investment Account linked and included
+in your Business Advantage Fundamentals Banking relationship before
+The Monthly Fee of $5 will no longer be waived by being February 19, 2021, it will remain and will not receive a Monthly Fee
+linked and included in a Business Advantage Fundamentals while included.
+Banking relationship.
+Note: Business Investment Accounts can be linked to your Business
+Advantage Fundamentals Banking relationship to help meet the
+combined balance requirement to avoid the Monthly Fee.
+Continued on next page
+Page 14 of 16
+Continued from previous page
+Excess Transactions Fee and Deposited Item Fee Account statement For more information about any fees that may apply to business
+cycles on or after accounts, review the Business Schedule of Fees for the state in which
+These fees will no longer apply to deposits made using Remote January 30, 2021 you opened your account at bankofamerica.com/businessfeesataglance.
+Deposit Online, Mobile Check Deposit, or at a Bank of America
+ATM.
+Business Advantage Savings Account statement To avoid the Monthly Fee, meet any ONE of the following requirements
+cycles on or after during each statement cycle:
+The Monthly Fee is decreasing from $15 to $10. January 30, 2021
+· Maintain a minimum daily balance of $2,500 or more in your account.
+Previously, the minimum daily balance was $5,000.
+· Include in your Business Advantage Relationship Banking solution (one
+per checking solution).
+· Qualify for and enroll in Preferred Rewards for Business (first four
+savings accounts, per enrolled business).
+We are here to help
+For more information about these changes and other fees that may apply to your accounts, visit your nearby financial center or review the
+Business Schedule of Fees for the state in which you opened your account at bankofamerica.com/businessfeesataglance.
+Please let us know if you have any questions about these changes or would like to discuss how you may be able to reduce or waive some of
+these fees by converting your account to another account type. You can stop by a financial center, make an appointment at
+bankofamerica.com/bizappointment, or give us a call at the number listed on this statement.
+En los próximos meses, verá cambios en algunos cargos por servicios que podrían aplicarse a sus cuentas de cheques, de ahorros y de
+Certificados de Depósito (CD) para Pequeñas Empresas. Antes de que entren en vigencia, nos gustaría explicarle qué cargos cambiarán y
+cuándo lo harán, y también informarle los pasos que puede tomar para evitar algunos de ellos.
+Para obtener más información, visite un centro financiero de Bank of America.
+Footnotes are spelled out so the text can be translated by vision disability screen reader programs.
+(Footnote 1) Intuit and the Intuit logo are registered trademarks of Intuit Inc., used under license. ADP and the ADP logo are registered
+trademarks of ADP, LLC, used under license. Bank of America does not deliver and is not responsible for the products, services or
+performance of Intuit Inc. or ADP, LLC. Internet access may be required. Internet service provider fees may apply. Other bank fees may apply.
+See the Business Schedule of Fees available at bankofamerica.com/businessfeesataglance for details. Bank of America and/or its affiliates or
+service providers may receive compensation from third parties for clients' use of their services.
+(Footnote 2) The Preferred Rewards for Business program is only available to Small Business, Merrill Small Business, and Bank of America
+Private Bank® Small Business clients. Other categories of clients, such as those commonly referred to as Business Banking, Global Commercial
+Banking, Global Corporate Investment Banking, or Institutional clients are not eligible to participate in the program. Subject to certain
+exceptions, eligible business checking accounts generally are any Small Business checking account and the following Analyzed checking
+accounts: Full Analysis Business Checking or Analyzed Business Interest Checking. Clients in the eligible business categories may enroll in the
+program. To enroll you must have an active, eligible Bank of America business checking account, and maintain a qualifying balance of at least
+$20,000 for the Gold tier, $50,000 for the Platinum tier, or $100,000 for the Platinum Honors tier in your combined qualifying Bank of
+America business deposit accounts (such as checking, savings, certificate of deposit) and/or your Merrill business investment accounts (such
+as Working Capital Management Accounts, Business Investor Accounts, Delaware Business Accounts). The qualifying balance is calculated
+based on either (i): your average daily balance for a three calendar month period, or (ii) your current combined balance, provided that you enroll
+at the time you open your first eligible business checking account and satisfy the balance requirement at the end of at least one day within
+thirty days of opening that account. Refer to your Business Schedule of Fees for details on accounts that qualify towards the combined
+balance calculation and receive program benefits. Eligibility to enroll is generally available three or more business days after the end of the
+calendar month in which you satisfy the requirements. Bank of America Private Bank® Small Business clients are automatically enrolled in the
+program at the Platinum Honors tier as long as you maintain your Bank of America Private Bank® relationship. Once you are no longer a client
+of the Private Bank, your enrollment in Preferred Rewards for Business will end and the benefits from enrollment will no longer be provided.
+You can continue to receive Preferred Rewards for Business benefits if you are eligible for the program and you take action to enroll. Benefits
+become effective within 30 days of your enrollment, or for new accounts within 30 days of account opening, unless we indicate otherwise.
+Certain benefits may be available without enrolling in the program if you satisfy balance and other requirements.
+Page 15 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! November 1, 2020 to November 30, 2020
+This page intentionally left blank
+Page 16 of 16

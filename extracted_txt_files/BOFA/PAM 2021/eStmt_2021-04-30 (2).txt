@@ -1,0 +1,343 @@
+Withdrawals and other debits -43,367.86
+# of items-previous cycle¹: 23
+Checks -66,578.93
+# of days in cycle: 30
+Service fees -0.00 Average ledger balance: $884,878.20
+Ending balance on April 30, 2021 $965,512.46 ¹Includes checks paid,deposited items&other debits
+PULL: E CYCLE: 67 SPEC: E DELIVERY: E TYPE: IMAGE: I BC: CA3 Page 1 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+IMPORTANT INFORMATION:
+BANK DEPOSIT ACCOUNTS
+How to Contact Us - You may call us at the telephone number listed on the front of this statement.
+Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address,
+email and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of
+Online Banking.
+Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your
+account would be governed by the terms of these documents, as we may amend them from time to time. These documents are
+part of the contract for your deposit account and govern all transactions relating to your account, including all deposits and
+withdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and
+conditions of your account relationship may be obtained at our financial centers.
+Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is
+wrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,
+point-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of
+this statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on
+which the error or problem appeared.
+- Tell us your name and account number.
+- Describe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error
+or why you need more information.
+- Tell us the dollar amount of the suspected error.
+For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will
+correct any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20
+business days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is
+made to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will
+have use of the money during the time it will take to complete our investigation.
+For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our
+investigation.
+Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover
+errors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an
+unauthorized transaction within the time period specified in the deposit agreement (which periods are no more than 60 days
+after we make the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to
+not make a claim against us, for the problems or unauthorized transactions.
+Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same
+person or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online
+or visit a financial center for information.
+©2021 Bank of America Corporation
+Page 2 of 12
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Deposits and other credits
+Date Description Amount
+04/01/21 Rue Gilt Groupe DES:ACH ID:AP000130966 INDN:Precision Apparel Manu CO ID:1043505021 125,193.60
+PPD
+04/01/21 BKOFAMERICA ATM 04/01 #000008113 DEPOSIT GLEN ROCK GLEN ROCK NJ 50,118.62
+04/01/21 Square Inc DES:210401P2 ID:L208611427075 INDN:Precision Apparel Manu CO 2,877.88
+ID:9424300002 PPD
+04/01/21 FashionGo DES:FashionGo ID:ST-B4T1Z2M3K3A3 INDN:RAM NARAYANAN CO 717.10
+ID:1800948598 CCD
+04/02/21 Square Inc DES:210402P2 ID:L208611766626 INDN:Precision Apparel Manu CO 1,818.99
+ID:9424300002 PPD
+04/02/21 FashionGo DES:FashionGo ID:ST-L1P6W7U2R5U2 INDN:RAM NARAYANAN CO 352.09
+ID:1800948598 CCD
+04/05/21 Square Inc DES:210405P2 ID:L208612326666 INDN:Precision Apparel Manu CO 6,611.94
+ID:9424300002 PPD
+04/06/21 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 21,250.00
+ID:1208442468 CCD
+04/06/21 Square Inc DES:210406P2 ID:L208612627005 INDN:Precision Apparel Manu CO 4,583.60
+ID:9424300002 PPD
+04/06/21 Shopify DES:TRANSFER ID:ST-E3G8M8X4Z4U5 INDN:RAM NARAYANAN CO 56.79
+ID:1800948598 CCD
+04/07/21 Square Inc DES:210407P2 ID:L208612883397 INDN:Precision Apparel Manu CO 3,322.37
+ID:9424300002 PPD
+04/07/21 FashionGo DES:FashionGo ID:ST-B3Y7K9X1W0Q1 INDN:RAM NARAYANAN CO 270.89
+ID:1800948598 CCD
+04/07/21 Shopify DES:TRANSFER ID:ST-R3I1Z8G0Z1V8 INDN:RAM NARAYANAN CO 110.39
+ID:1800948598 CCD
+04/08/21 Square Inc DES:210408P2 ID:L208613234269 INDN:Precision Apparel Manu CO 2,267.43
+ID:9424300002 PPD
+04/09/21 Square Inc DES:210409P2 ID:L208613597410 INDN:Precision Apparel Manu CO 1,395.38
+ID:9424300002 PPD
+continued on the next page
+Page 3 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Deposits and other credits - continued
+Date Description Amount
+04/09/21 Lord & Taylor DES:AP Verify ID:024ZYKOMNYUZGAO INDN:Precision Apparel Manu CO 0.01
+ID:2204895317 CCD
+04/12/21 Square Inc DES:210412P2 ID:L208614191073 INDN:Precision Apparel Manu CO 719.63
+ID:9424300002 PPD
+04/12/21 Square Inc DES:210412P2 ID:L208614191074 INDN:Precision Apparel Manu CO 511.92
+ID:9424300002 PPD
+04/12/21 FashionGo DES:FashionGo ID:ST-W5R0B7D7U0F2 INDN:RAM NARAYANAN CO 432.61
+ID:1800948598 CCD
+04/13/21 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 11,578.26
+ID:1208442468 CCD
+04/14/21 FashionGo DES:FashionGo ID:ST-F2F3G6M2A5C5 INDN:RAM NARAYANAN CO 679.80
+ID:1800948598 CCD
+04/14/21 Shopify DES:TRANSFER ID:ST-L2E7P4T6H2Y7 INDN:RAM NARAYANAN CO 486.84
+ID:1800948598 CCD
+04/15/21 Shopify DES:TRANSFER ID:ST-Y6T6K1M1X9N7 INDN:RAM NARAYANAN CO 114.28
+ID:1800948598 CCD
+04/16/21 Prfd Rwds for Bus-ATM Operator Refund of $2.95 2.95
+04/19/21 BKOFAMERICA ATM 04/17 #000002488 DEPOSIT 95 WALL STREET NEW YORK NY 55,030.66
+04/19/21 Square Inc DES:210419P2 ID:L208616059803 INDN:Precision Apparel Manu CO 4,829.18
+ID:9424300002 PPD
+04/19/21 Square Inc DES:210419P2 ID:L208616059802 INDN:Precision Apparel Manu CO 2,896.08
+ID:9424300002 PPD
+04/20/21 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 25,422.00
+ID:1208442468 CCD
+04/20/21 Square Inc DES:210420P2 ID:L208616347712 INDN:Precision Apparel Manu CO 1,397.77
+ID:9424300002 PPD
+04/20/21 Shopify DES:TRANSFER ID:ST-B8I9E5C0D6E9 INDN:RAM NARAYANAN CO 369.32
+ID:1800948598 CCD
+04/21/21 Square Inc DES:210421P2 ID:L208616595493 INDN:Precision Apparel Manu CO 4,440.24
+ID:9424300002 PPD
+04/21/21 FashionGo DES:FashionGo ID:ST-Z4R5R1D0V0Z1 INDN:RAM NARAYANAN CO 3,066.12
+ID:1800948598 CCD
+04/22/21 Square Inc DES:210422P2 ID:L208616913096 INDN:Precision Apparel Manu CO 6,867.03
+ID:9424300002 PPD
+04/22/21 Lord & Taylor DES:Bill.com ID:025AFFXUAP13334 INDN:Precision Apparel Manu CO 2,928.00
+ID:1204895317 CCD PMT INFO: Lord & Taylor Bill.com 025AFFXUAP1333 4 Acct
+#325081398050 - Inv #5164
+04/22/21 Shopify DES:TRANSFER ID:ST-E2M7R4W5R8D4 INDN:RAM NARAYANAN CO 104.57
+ID:1800948598 CCD
+04/23/21 Square Inc DES:210423P2 ID:L208617264813 INDN:Precision Apparel Manu CO 5,072.00
+ID:9424300002 PPD
+04/23/21 FashionGo DES:FashionGo ID:ST-M2S6A0L2H4R7 INDN:RAM NARAYANAN CO 590.43
+ID:1800948598 CCD
+continued on the next page
+Page 4 of 12
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Deposits and other credits - continued
+Date Description Amount
+04/23/21 Shopify DES:TRANSFER ID:ST-P0F3J4V0X7A3 INDN:RAM NARAYANAN CO 168.35
+ID:1800948598 CCD
+04/26/21 Square Inc DES:210426P2 ID:L208617908678 INDN:Precision Apparel Manu CO 1,590.15
+ID:9424300002 PPD
+04/26/21 FashionGo DES:FashionGo ID:ST-N1H8F7N5R9M0 INDN:RAM NARAYANAN CO 844.44
+ID:1800948598 CCD
+04/26/21 Prfd Rwds for Bus-ATM Operator Refund of $3 3.00
+04/26/21 Prfd Rwds for Bus-ATM Operator Refund of $2.95 2.95
+04/27/21 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 28,730.00
+ID:1208442468 CCD
+04/27/21 Square Inc DES:210427P2 ID:L208618190475 INDN:Precision Apparel Manu CO 10,843.47
+ID:9424300002 PPD
+04/27/21 FashionGo DES:FashionGo ID:ST-Z9I3A8F8E3X5 INDN:RAM NARAYANAN CO 1,069.65
+ID:1800948598 CCD
+04/27/21 Shopify DES:TRANSFER ID:ST-S8T4F9F1J5K0 INDN:RAM NARAYANAN CO 120.14
+ID:1800948598 CCD
+04/28/21 Square Inc DES:210428P2 ID:L208618441078 INDN:Precision Apparel Manu CO 7,190.01
+ID:9424300002 PPD
+04/28/21 FashionGo DES:FashionGo ID:ST-C5S2C2F6L3N8 INDN:RAM NARAYANAN CO 275.75
+ID:1800948598 CCD
+04/29/21 Square Inc DES:210429P2 ID:L208618797346 INDN:Precision Apparel Manu CO 4,366.23
+ID:9424300002 PPD
+04/29/21 FashionGo DES:FashionGo ID:ST-X8E2D7X4E1B8 INDN:RAM NARAYANAN CO 285.16
+ID:1800948598 CCD
+04/29/21 Shopify DES:TRANSFER ID:ST-J2O5L8G8E8L4 INDN:RAM NARAYANAN CO 176.37
+ID:1800948598 CCD
+04/30/21 Square Inc DES:210430P2 ID:L208619107647 INDN:Precision Apparel Manu CO 3,397.81
+ID:9424300002 PPD
+04/30/21 FashionGo DES:FashionGo ID:ST-T2M4T0Q9P5A7 INDN:RAM NARAYANAN CO 266.03
+ID:1800948598 CCD
+Total deposits and other credits $407,816.28
+Withdrawals and other debits
+Date Description Amount
+04/01/21 Online Banking transfer to CHK 2365 Confirmation# 2430204809 -28.55
+04/01/21 AMERICAN EXPRESS DES:ACH PMT ID:W8840 INDN:Precision Apparel Manu CO -121.86
+ID:1133133497 CCD
+04/02/21 AMERICAN EXPRESS DES:ACH PMT ID:W0228 INDN:Precision Apparel Manu CO -1,301.78
+ID:1133133497 CCD
+04/05/21 CAPITAL ONE DES:ONLINE PMT ID:3FNK9VZQ1AQHUDW INDN:RAM NARAYANAN CO -542.92
+ID:9279744991 CCD
+continued on the next page
+Page 5 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Withdrawals and other debits - continued
+Date Description Amount
+04/05/21 CHASE CREDIT CRD DES:EPAY ID:5214833348 INDN:RAM NARAYANAN CO -403.97
+ID:5760039224 WEB
+04/05/21 AMERICAN EXPRESS DES:ACH PMT ID:W8048 INDN:Precision Apparel Manu CO -308.36
+ID:1133133497 CCD
+04/05/21 AMERICAN EXPRESS DES:ACH PMT ID:W5556 INDN:Precision Apparel Manu CO -199.55
+ID:1133133497 CCD
+04/06/21 CHASE CREDIT CRD DES:EPAY ID:5220290617 INDN:RAM NARAYANAN CO -1,129.39
+ID:5760039224 WEB
+04/07/21 AMERICAN EXPRESS DES:ACH PMT ID:W6572 INDN:Precision Apparel Manu CO -2,457.89
+ID:1133133497 CCD
+04/07/21 VERIZON WIRELESS DES:PAYMENTS ID:078244577900001 INDN:0000000078244577900001 -393.35
+CO ID:7223344794 PPD
+04/08/21 CHASE CREDIT CRD DES:EPAY ID:5223999165 INDN:RAM NARAYANAN CO -419.59
+ID:5760039224 WEB
+04/09/21 AMERICAN EXPRESS DES:ACH PMT ID:W5678 INDN:Precision Apparel Manu CO -1,204.23
+ID:1133133497 CCD
+04/12/21 Zelle Transfer Conf# mtvg2ysdp; Dixon Westbay Showroom LLC -3,900.35
+04/12/21 CHASE CREDIT CRD DES:EPAY ID:5228668062 INDN:RAM NARAYANAN CO -559.42
+ID:5760039224 WEB
+04/13/21 CHASE CREDIT CRD DES:EPAY ID:5232446692 INDN:RAM NARAYANAN CO -353.34
+ID:5760039224 WEB
+04/15/21 AMERICAN EXPRESS DES:ACH PMT ID:W5966 INDN:Precision Apparel Manu CO -644.92
+ID:1133133497 CCD
+04/16/21 CAPITAL ONE DES:ONLINE PMT ID:3FQ3OG38SHDMEXG INDN:RAM NARAYANAN CO -645.57
+ID:9279744991 CCD
+04/16/21 CHASE CREDIT CRD DES:EPAY ID:5238068345 INDN:RAM NARAYANAN CO -527.43
+ID:5760039224 WEB
+04/19/21 CHASE CREDIT CRD DES:EPAY ID:5241854255 INDN:RAM NARAYANAN CO -981.87
+ID:5760039224 WEB
+04/19/21 AMERICAN EXPRESS DES:ACH PMT ID:W2098 INDN:Precision Apparel Manu CO -323.14
+ID:1133133497 CCD
+04/19/21 Shopify DES:TRANSFER ID:ST-C0A9R5A5S8A9 INDN:RAM NARAYANAN CO -198.95
+ID:1800948598 CCD
+04/19/21 CHASE CREDIT CRD DES:EPAY ID:5242783295 INDN:RAJ NARAYANAN CO -87.38
+ID:5760039224 WEB
+04/19/21 CON ED OF NY DES:INTELL CK ID:401001110812099 INDN:RAJ NARAYANAN CO -33.89
+ID:2462467002 PPD
+04/20/21 CAPITAL ONE DES:ONLINE PMT ID:3FQXTRCXL3D239W INDN:RAM NARAYANAN CO -1,086.13
+ID:9279744991 CCD
+04/20/21 AMERICAN EXPRESS DES:ACH PMT ID:W5068 INDN:Precision Apparel Manu CO -950.91
+ID:1133133497 CCD
+04/20/21 AMERICAN EXPRESS DES:ACH PMT ID:W6074 INDN:Precision Apparel Manu CO -200.14
+ID:1133133497 CCD
+04/21/21 CHASE CREDIT CRD DES:EPAY ID:5246528386 INDN:RAM NARAYANAN CO -497.18
+ID:5760039224 WEB
+04/21/21 Shopify DES:TRANSFER ID:ST-W8G4C8O8O4X7 INDN:RAM NARAYANAN CO -68.05
+ID:1800948598 CCD
+04/26/21 CAPITAL ONE DES:ONLINE PMT ID:3FS70RSI0R2RQQC INDN:RAM NARAYANAN CO -849.25
+ID:9279744991 CCD
+04/26/21 CHASE CREDIT CRD DES:EPAY ID:5251356987 INDN:RAM NARAYANAN CO -519.42
+ID:5760039224 WEB
+continued on the next page
+Page 6 of 12
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Withdrawals and other debits - continued
+Date Description Amount
+04/26/21 Shopify DES:TRANSFER ID:ST-L8H0I7E3I7D3 INDN:RAM NARAYANAN CO -104.00
+ID:1800948598 CCD
+04/27/21 Online Banking transfer to CHK 2365 Confirmation# 3353444265 -250.00
+04/27/21 AMERICAN EXPRESS DES:ACH PMT ID:W3150 INDN:Precision Apparel Manu CO -1,677.76
+ID:1133133497 CCD
+04/27/21 CHASE CREDIT CRD DES:EPAY ID:5256660948 INDN:RAM NARAYANAN CO -1,021.39
+ID:5760039224 WEB
+04/27/21 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -388.40
+ID:9200704262 TEL
+04/27/21 VERIZON DES:PAYMENTREC ID:6562798880001 INDN:BALANNARAYANAN CO -164.99
+ID:9783397101 WEB
+04/28/21 Zelle Transfer Conf# m3fc96kei; Dixon Westbay Showroom LLC -10,000.00
+04/28/21 Shopify DES:TRANSFER ID:ST-X9E2X3N8V6G0 INDN:RAM NARAYANAN CO -118.00
+ID:1800948598 CCD
+04/29/21 AMERICAN EXPRESS DES:ACH PMT ID:W9032 INDN:Precision Apparel Manu CO -363.16
+ID:1133133497 CCD
+04/30/21 Online Banking transfer to CHK 2365 Confirmation# 2282998365 -87.00
+04/30/21 CHASE CREDIT CRD DES:EPAY ID:5261157539 INDN:BALAN NARAYANAN CO -4,005.93
+ID:5760039224 WEB
+04/30/21 Shopify DES:TRANSFER ID:ST-O5Y6A0N7O2W8 INDN:RAM NARAYANAN CO -54.00
+ID:1800948598 CCD
+Card account # XXXX XXXX XXXX 5049
+04/05/21 BKOFAMERICA ATM 04/03 #000002181 WITHDRWL GLEN ROCK GLEN ROCK NJ -80.00
+Subtotal for card account # XXXX XXXX XXXX 5049 -$80.00
+Card account # XXXX XXXX XXXX 8908
+04/05/21 BKOFAMERICA ATM 04/03 #000001303 WITHDRWL WILSHIRE & UNION LOS ANGELES CA -600.00
+04/12/21 BKOFAMERICA ATM 04/10 #000004352 WITHDRWL LINCOLN-TUSTIN ORANGE CA -500.00
+04/16/21 ISPA/PIMDS 04/16 #000009924 WITHDRWL PAI ISO CHATSWORTH CA -202.95
+04/19/21 BKOFAMERICA ATM 04/17 #000008823 WITHDRWL WILSHIRE & UNION LOS ANGELES CA -500.00
+04/21/21 CHECKCARD 0420 THE FLAME BROILER #62 ANAHEIM CA 24765011110400000021239 -59.26
+CKCD 5812 XXXXXXXXXXXX8908 XXXX XXXX XXXX 8908
+04/23/21 BKOFAMERICA ATM 04/23 #000006677 WITHDRWL LINCOLN-TUSTIN ORANGE CA -1,000.00
+04/26/21 A464471 04/25 #000023409 WITHDRWL RETAIL WITHD-4644 LOS ANGELES CA -38.00
+04/26/21 ARCO42289001 04/26 #000135512 PURCHASE ARCO #42289 COMMERCE CA -11.29
+04/26/21 ISPA/PIMDS 04/26 #000000311 WITHDRWL PAI ISO CHATSWORTH CA -202.95
+04/30/21 BKOFAMERICA ATM 04/30 #000006704 WITHDRWL WILSHIRE & UNION LOS ANGELES CA -1,000.00
+Subtotal for card account # XXXX XXXX XXXX 8908 -$4,114.45
+Total withdrawals and other debits -$43,367.86
+Page 7 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Checks
+Date Check # Amount Date Check # Amount
+04/22/21 5176 -225.00 04/19/21 5191 -7,008.00
+04/16/21 5177 -10,000.00 04/23/21 5192 -4,172.00
+04/06/21 5178 -4,310.00 04/19/21 5193 -6,395.10
+04/01/21 5183* -460.00 04/20/21 5194 -1,238.60
+04/05/21 5184 -5,733.55 04/05/21 5397* -1,050.00
+04/01/21 5185 -8,711.25 04/08/21 5398 -515.00
+04/12/21 5186 -1,898.00 04/09/21 5399 -447.10
+04/09/21 5187 -1,331.00 04/27/21 5400 -2,500.00
+04/16/21 5188 -2,000.00 04/20/21 5401 -618.33
+04/22/21 5189 -400.00 04/15/21 5402 -1,750.00
+04/19/21 5190 -2,510.00 04/19/21 5403 -3,306.00
+Total checks -$66,578.93
+Total # of checks 22
+* There is a gap in sequential check numbers
+Service fees
+The Monthly Fee on your primary Business Advantage Relationship Banking account was waived for the statement period ending 03/31/21. A
+check mark below indicates the requirement(s) you have met to qualify for the Monthly Fee waiver on the account.
+$15,000+ combined average monthly balance in linked business accounts has been met
+Become a member of Preferred Rewards for Business has been met
+For information on how to open a new product, link an existing service to your account, or about Preferred Rewards for Business please call
+1.888.BUSINESS or visit bankofamerica.com/smallbusiness.
+Date Transaction description Amount
+04/16/21 Prfd Rwds for Bus-ATM Wthdrwl Fee Waiver of $2.50 -0.00
+04/26/21 Prfd Rwds for Bus-ATM Bal Inq Fee Waiver of $2.50 -0.00
+04/26/21 Prfd Rwds for Bus-ATM Wthdrwl Fee Waiver of $2.50 -0.00
+04/26/21 Prfd Rwds for Bus-ATM Wthdrwl Fee Waiver of $2.50 -0.00
+Total service fees -$0.00
+Note your Ending Balance already reflects the subtraction of Service Fees.
+Daily ledger balances
+Date Balance ($) Date Balance($) Date Balance ($)
+04/01 837,228.51 04/13 862,872.02 04/22 929,048.06
+04/02 838,097.81 04/14 864,038.66 04/23 929,706.84
+04/05 835,791.40 04/15 861,758.02 04/26 930,422.47
+04/06 856,242.40 04/16 848,385.02 04/27 965,183.19
+04/07 857,094.81 04/19 889,796.61 04/28 962,530.95
+04/08 858,427.65 04/20 912,891.59 04/29 966,995.55
+04/09 856,840.71 04/21 919,773.46 04/30 965,512.46
+04/12 851,647.10
+Page 8 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Check images
+Account number: 3250 8139 8050
+Check number: 5176 ! Amount: $225.00 Check number: 5177 ! Amount: $10,000.00
+Check number: 5178 ! Amount: $4,310.00 Check number: 5183 ! Amount: $460.00
+Check number: 5184 ! Amount: $5,733.55 Check number: 5185 ! Amount: $8,711.25
+Check number: 5186 ! Amount: $1,898.00 Check number: 5187 ! Amount: $1,331.00
+Check number: 5188 ! Amount: $2,000.00 Check number: 5189 ! Amount: $400.00
+continued on the next page
+Page 9 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 5190 ! Amount: $2,510.00 Check number: 5191 ! Amount: $7,008.00
+Check number: 5192 ! Amount: $4,172.00 Check number: 5193 ! Amount: $6,395.10
+Check number: 5194 ! Amount: $1,238.60 Check number: 5397 ! Amount: $1,050.00
+Check number: 5398 ! Amount: $515.00 Check number: 5399 ! Amount: $447.10
+Check number: 5400 ! Amount: $2,500.00 Check number: 5401 ! Amount: $618.33
+continued on the next page
+Page 10 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 5402 ! Amount: $1,750.00 Check number: 5403 ! Amount: $3,306.00
+Page 11 of 12
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! April 1, 2021 to April 30, 2021
+This page intentionally left blank
+Page 12 of 12

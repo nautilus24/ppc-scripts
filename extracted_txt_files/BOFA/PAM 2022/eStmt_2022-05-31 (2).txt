@@ -1,0 +1,395 @@
+Withdrawals and other debits -47,865.45
+# of items-previous cycle¹: 33
+Checks -400,255.30
+# of days in cycle: 31
+Service fees -5.00 Average ledger balance: $736,913.65
+Ending balance on May 31, 2022 $632,257.04 ¹Includes checks paid, deposited items and other debits
+Daniel Buricea
+917.809.6303
+daniel.buricea@bofa.com
+PULL: E CYCLE: 67 SPEC: E DELIVERY: E TYPE: IMAGE: I BC: CA3 Page 1 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+IMPORTANT INFORMATION:
+BANK DEPOSIT ACCOUNTS
+How to Contact Us - You may call us at the telephone number listed on the front of this statement.
+Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address,
+email and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of
+Online Banking.
+Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your
+account would be governed by the terms of these documents, as we may amend them from time to time. These documents are
+part of the contract for your deposit account and govern all transactions relating to your account, including all deposits and
+withdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and
+conditions of your account relationship may be obtained at our financial centers.
+Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is
+wrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,
+point-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of
+this statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on
+which the error or problem appeared.
+- Tell us your name and account number.
+- Describe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error
+or why you need more information.
+- Tell us the dollar amount of the suspected error.
+For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will
+correct any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20
+business days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is
+made to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will
+have use of the money during the time it will take to complete our investigation.
+For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our
+investigation.
+Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover
+errors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an
+unauthorized transaction within the time period specified in the deposit agreement (which periods are no more than 60 days
+after we make the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to
+not make a claim against us, for the problems or unauthorized transactions.
+Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same
+person or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online
+or visit a financial center for information.
+©2022 Bank of America Corporation
+Page 2 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Deposits and other credits
+Date Description Amount
+05/02/22 BKOFAMERICA ATM 05/01 #000002984 DEPOSIT GLEN ROCK GLEN ROCK NJ 2,700.00
+05/02/22 Square Inc DES:220502P2 ID:L208713906785 INDN:Precision Apparel Manu CO 2,227.83
+ID:9424300002 PPD
+05/02/22 Square Inc DES:220502P2 ID:L208713906786 INDN:Precision Apparel Manu CO 1,929.70
+ID:9424300002 PPD
+05/03/22 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 8,610.00
+ID:1208442468 CCD
+05/03/22 Square Inc DES:220503P2 ID:L208714267643 INDN:Precision Apparel Manu CO 2,282.76
+ID:9424300002 PPD
+05/03/22 FashionGo DES:FashionGo ID:ST-J0A7G8D8N8C6 INDN:RAM NARAYANAN CO 125.84
+ID:1800948598 CCD
+05/03/22 Shopify DES:TRANSFER ID:ST-Y8K2N1M0Q1V1 INDN:RAM NARAYANAN CO 57.96
+ID:1800948598 CCD
+05/04/22 Square Inc DES:220504P2 ID:L208714633582 INDN:Precision Apparel Manu CO 3,928.10
+ID:9424300002 PPD
+05/04/22 Shopify DES:TRANSFER ID:ST-I0J3N4Q4Y8K0 INDN:RAM NARAYANAN CO 52.13
+ID:1800948598 CCD
+05/05/22 Counter Credit 51,661.23
+05/05/22 Square Inc DES:220505P2 ID:L208714928633 INDN:Precision Apparel Manu CO 808.10
+ID:9424300002 PPD
+05/06/22 Square Inc DES:220506P2 ID:L208715294859 INDN:Precision Apparel Manu CO 4,043.99
+ID:9424300002 PPD
+05/09/22 Square Inc DES:220509P2 ID:L208715917680 INDN:Precision Apparel Manu CO 6,730.76
+ID:9424300002 PPD
+05/10/22 Square Inc DES:220510P2 ID:L208716179090 INDN:Precision Apparel Manu CO 8,750.58
+ID:9424300002 PPD
+05/10/22 Shopify DES:TRANSFER ID:ST-L6C1H7D4S3G0 INDN:RAM NARAYANAN CO 51.77
+ID:1800948598 CCD
+05/11/22 Square Inc DES:220511P2 ID:L208716408522 INDN:Precision Apparel Manu CO 6,408.22
+ID:9424300002 PPD
+continued on the next page
+Page 3 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Deposits and other credits - continued
+Date Description Amount
+05/12/22 Square Inc DES:220512P2 ID:L208716759286 INDN:Precision Apparel Manu CO 3,408.76
+ID:9424300002 PPD
+05/12/22 FashionGo DES:FashionGo ID:ST-E8E3Y5W9E0W2 INDN:RAM NARAYANAN CO 1,083.29
+ID:1800948598 CCD
+05/12/22 Shopify DES:TRANSFER ID:ST-A9Y3V4H9W0D4 INDN:RAM NARAYANAN CO 198.01
+ID:1800948598 CCD
+05/13/22 Square Inc DES:220513P2 ID:L208717111840 INDN:Precision Apparel Manu CO 7,842.64
+ID:9424300002 PPD
+05/13/22 BKOFAMERICA ATM 05/13 #000006116 DEPOSIT GLEN ROCK GLEN ROCK NJ 366.00
+05/13/22 FashionGo DES:FashionGo ID:ST-E1L5D6E6V2P0 INDN:RAM NARAYANAN CO 128.00
+ID:1800948598 CCD
+05/16/22 Square Inc DES:220516P2 ID:L208717759727 INDN:Precision Apparel Manu CO 5,579.06
+ID:9424300002 PPD
+05/16/22 Square Inc DES:220516P2 ID:L208717759728 INDN:Precision Apparel Manu CO 2,676.07
+ID:9424300002 PPD
+05/17/22 Counter Credit 69,360.66
+05/17/22 Square Inc DES:220517P2 ID:L208717988734 INDN:Precision Apparel Manu CO 7,892.28
+ID:9424300002 PPD
+05/17/22 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 3,300.00
+ID:1208442468 CCD
+05/17/22 Shopify DES:TRANSFER ID:ST-N7P4H8F7H6O3 INDN:RAM NARAYANAN CO 56.02
+ID:1800948598 CCD
+05/18/22 Square Inc DES:220518P2 ID:L208718283509 INDN:Precision Apparel Manu CO 545.18
+ID:9424300002 PPD
+05/19/22 Square Inc DES:220519P2 ID:L208718591698 INDN:Precision Apparel Manu CO 5,021.61
+ID:9424300002 PPD
+05/19/22 Shopify DES:TRANSFER ID:ST-K6B7B9O4O3I9 INDN:RAM NARAYANAN CO 46.31
+ID:1800948598 CCD
+05/20/22 Square Inc DES:220520P2 ID:L208718907322 INDN:Precision Apparel Manu CO 8,314.28
+ID:9424300002 PPD
+05/20/22 FashionGo DES:FashionGo ID:ST-G7A2C2S8Z9D2 INDN:RAM NARAYANAN CO 703.49
+ID:1800948598 CCD
+05/23/22 Square Inc DES:220523P2 ID:L208719495097 INDN:Precision Apparel Manu CO 8,564.84
+ID:9424300002 PPD
+05/23/22 Square Inc DES:220523P2 ID:L208719495098 INDN:Precision Apparel Manu CO 6,842.81
+ID:9424300002 PPD
+05/23/22 FashionGo DES:FashionGo ID:ST-I2K1N5S3U0E1 INDN:RAM NARAYANAN CO 155.22
+ID:1800948598 CCD
+05/23/22 Prfd Rwds for Bus-ATM Oper Rebate Refund of $3 3.00
+05/24/22 Counter Credit 8,700.00
+05/24/22 Square Inc DES:220524P2 ID:L208719797773 INDN:Precision Apparel Manu CO 6,639.08
+ID:9424300002 PPD
+05/24/22 Prfd Rwds for Bus-ATM Oper Rebate Refund of $3 3.00
+continued on the next page
+Page 4 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Deposits and other credits - continued
+Date Description Amount
+05/25/22 Square Inc DES:220525P2 ID:L208720068721 INDN:Precision Apparel Manu CO 10,232.09
+ID:9424300002 PPD
+05/25/22 FashionGo DES:FashionGo ID:ST-P6K5H6M9Y9C7 INDN:RAM NARAYANAN CO 142.58
+ID:1800948598 CCD
+05/25/22 Shopify DES:TRANSFER ID:ST-D0J2L0Z2V1B9 INDN:RAM NARAYANAN CO 62.99
+ID:1800948598 CCD
+05/26/22 Square Inc DES:220526P2 ID:L208720397466 INDN:Precision Apparel Manu CO 8,998.13
+ID:9424300002 PPD
+05/27/22 Square Inc DES:220527P2 ID:L208720742550 INDN:Precision Apparel Manu CO 6,778.61
+ID:9424300002 PPD
+05/27/22 Shopify DES:TRANSFER ID:ST-N4Y4B6R4S2O1 INDN:RAM NARAYANAN CO 62.99
+ID:1800948598 CCD
+05/31/22 BKOFAMERICA ATM 05/29 #000001578 DEPOSIT GLEN ROCK GLEN ROCK NJ 3,240.00
+05/31/22 Rue Gilt Groupe DES:ACH ID:AP0000163497 INDN:Precision Apparel Manu CO 5,594.00
+ID:1043505021 PPD
+05/31/22 Square Inc DES:220530P2 ID:L208721374631 INDN:Precision Apparel Manu CO 3,393.61
+ID:9424300002 PPD
+05/31/22 Square Inc DES:220531P2 ID:L208721604286 INDN:Precision Apparel Manu CO 1,898.31
+ID:9424300002 PPD
+Total deposits and other credits $288,201.89
+Withdrawals and other debits
+Date Description Amount
+05/02/22 CAPITAL ONE DES:ONLINE PMT ID:3LO3KX928THGZRO INDN:RAM NARAYANAN CO -1,098.05
+ID:9279744991 CCD
+05/03/22 AMERICAN EXPRESS DES:ACH PMT ID:W9454 INDN:Precision Apparel Manu CO -706.17
+ID:1133133497 CCD
+05/03/22 AMERICAN EXPRESS DES:ACH PMT ID:W7196 INDN:Precision Apparel Manu CO -508.25
+ID:1133133497 CCD
+05/03/22 CAPITAL ONE DES:ONLINE PMT ID:3LOX46SS8U96CK4 INDN:RAM NARAYANAN CO -332.15
+ID:9279744991 CCD
+05/03/22 AMERICAN EXPRESS DES:ACH PMT ID:W7980 INDN:Precision Apparel Manu CO -223.20
+ID:1133133497 CCD
+05/04/22 CHASE CREDIT CRD DES:EPAY ID:5933492238 INDN:RAM NARAYANAN CO -2,379.12
+ID:5760039224 WEB
+05/05/22 AMERICAN EXPRESS DES:ACH PMT ID:W2846 INDN:Precision Apparel Manu CO -1,282.01
+ID:1133133497 CCD
+05/05/22 Shopify DES:TRANSFER ID:ST-H1D4N6N3D6A0 INDN:RAM NARAYANAN CO -9.84
+ID:4270465600 CCD
+05/06/22 CHASE CREDIT CRD DES:EPAY ID:5938172769 INDN:RAM NARAYANAN CO -855.61
+ID:5760039224 WEB
+05/09/22 CHASE CREDIT CRD DES:EPAY ID:5942451989 INDN:RAM NARAYANAN CO -1,265.58
+ID:5760039224 WEB
+continued on the next page
+Page 5 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Withdrawals and other debits - continued
+Date Description Amount
+05/09/22 AMERICAN EXPRESS DES:ACH PMT ID:W1960 INDN:Precision Apparel Manu CO -853.96
+ID:1133133497 CCD
+05/09/22 AMERICAN EXPRESS DES:ACH PMT ID:W9800 INDN:Precision Apparel Manu CO -718.69
+ID:1133133497 CCD
+05/09/22 AMERICAN EXPRESS DES:ACH PMT ID:W8828 INDN:Precision Apparel Manu CO -561.68
+ID:1133133497 CCD
+05/09/22 VERIZON WIRELESS DES:PAYMENTS ID:078244577900001 INDN:0000000078244577900001 -331.41
+CO ID:7223344794 PPD
+05/09/22 AMERICAN EXPRESS DES:ACH PMT ID:W6074 INDN:Precision Apparel Manu CO -191.35
+ID:1133133497 CCD
+05/09/22 CHASE CREDIT CRD DES:EPAY ID:5942853968 INDN:RAM NARAYANAN CO -87.80
+ID:5760039224 WEB
+05/10/22 NJ TLR cash withdrawal from CHK 8050 -1,050.00
+05/10/22 AMERICAN EXPRESS DES:ACH PMT ID:W9388 INDN:Precision Apparel Manu CO -1,125.07
+ID:1133133497 CCD
+05/11/22 Online Banking transfer to CHK 2365 Confirmation# 2532285962 -1,238.96
+05/11/22 CAPITAL ONE DES:ONLINE PMT ID:3LQM7YU120AF95G INDN:RAM NARAYANAN CO -757.94
+ID:9279744991 CCD
+05/13/22 CHASE CREDIT CRD DES:EPAY ID:5952253988 INDN:RAM NARAYANAN CO -3,426.17
+ID:5760039224 WEB
+05/13/22 AMERICAN EXPRESS DES:ACH PMT ID:W5020 INDN:Precision Apparel Manu CO -1,115.54
+ID:1133133497 CCD
+05/13/22 AMERICAN EXPRESS DES:ACH PMT ID:W8080 INDN:Precision Apparel Manu CO -1,040.44
+ID:1133133497 CCD
+05/13/22 AMERICAN EXPRESS DES:ACH PMT ID:W3252 INDN:Precision Apparel Manu CO -892.04
+ID:1133133497 CCD
+05/13/22 AMERICAN EXPRESS DES:ACH PMT ID:W7558 INDN:Precision Apparel Manu CO -386.66
+ID:1133133497 CCD
+05/13/22 Shopify DES:TRANSFER ID:ST-P9J0Q4D6P3Q3 INDN:RAM NARAYANAN CO -54.44
+ID:1800948598 CCD
+05/16/22 CHASE CREDIT CRD DES:EPAY ID:5953765914 INDN:RAM NARAYANAN CO -904.33
+ID:5760039224 WEB
+05/16/22 SHOPPAYINST AFRM DES:PAYMENTS ID:OA3C4JZE0ARJ7C3 INDN:Prince Peter Collectio CO -54.00
+ID:9729198000 CCD
+05/17/22 CON ED OF NY DES:XXXXXXXXXX ID:401001110812099 INDN: RAJ NARAYANAN CO -40.28
+ID:2462467002 PPD
+05/18/22 Zelle Transfer Conf# ix9bxllop; Dixon Westbay Showroom LLC -2,302.48
+05/18/22 CHASE CREDIT CRD DES:EPAY ID:5961182387 INDN:RAM NARAYANAN CO -355.80
+ID:5760039224 WEB
+05/18/22 AMERICAN EXPRESS DES:ACH PMT ID:W3018 INDN:Precision Apparel Manu CO -208.35
+ID:1133133497 CCD
+05/20/22 CAPITAL ONE DES:ONLINE PMT ID:3LSI9LT1CAM82S4 INDN:RAM NARAYANAN CO -556.65
+ID:9279744991 CCD
+05/23/22 AMERICAN EXPRESS DES:ACH PMT ID:W8318 INDN:Precision Apparel Manu CO -617.47
+ID:1133133497 CCD
+05/23/22 PUBLIC SERVICE DES:PSEG ID:006706346802 INDN:PRECISION APPAREL MANU CO -396.99
+ID:4221212800 PPD
+05/23/22 CHASE CREDIT CRD DES:EPAY ID:5971131391 INDN:RAM NARAYANAN CO -299.43
+ID:5760039224 WEB
+05/25/22 AMERICAN EXPRESS DES:ACH PMT ID:W3416 INDN:Precision Apparel Manu CO -2,985.93
+ID:1133133497 CCD
+continued on the next page
+Page 6 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Withdrawals and other debits - continued
+Date Description Amount
+05/25/22 AMERICAN EXPRESS DES:ACH PMT ID:W0678 INDN:Precision Apparel Manu CO -660.45
+ID:1133133497 CCD
+05/25/22 AMERICAN EXPRESS DES:ACH PMT ID:W5046 INDN:Precision Apparel Manu CO -248.35
+ID:1133133497 CCD
+05/25/22 VERIZON DES:PAYMENTREC ID:6562798880001 INDN:BALANNARAYANAN CO -176.99
+ID:9783397101 WEB
+05/26/22 CAPITAL ONE DES:ONLINE PMT ID:3LTRS5IGRCWJITW INDN:RAM NARAYANAN CO -1,884.47
+ID:9279744991 CCD
+05/27/22 AMERICAN EXPRESS DES:ACH PMT ID:W3908 INDN:Precision Apparel Manu CO -2,402.34
+ID:1133133497 CCD
+05/31/22 CAPITAL ONE DES:ONLINE PMT ID:3LUMGWHFA9X96HG INDN:RAM NARAYANAN CO -3,528.60
+ID:9279744991 CCD
+05/31/22 AMERICAN EXPRESS DES:ACH PMT ID:W0510 INDN:Precision Apparel Manu CO -857.59
+ID:1133133497 CCD
+05/31/22 CHASE CREDIT CRD DES:EPAY ID:5982411205 INDN:RAM NARAYANAN CO -416.05
+ID:5760039224 WEB
+05/31/22 AMERICAN EXPRESS DES:ACH PMT ID:W7566 INDN:Precision Apparel Manu CO -353.67
+ID:1133133497 CCD
+Card account # XXXX XXXX XXXX 1931
+05/02/22 BKOFAMERICA ATM 05/01 #000008995 WITHDRWL LA BREA-ROSEWOOD LOS ANGELES CA -1,000.00
+05/02/22 CHECKCARD 0501 BLU JAM HWOOD 323-9519191 CA 24540452122043602917281 CKCD -22.89
+5812 XXXXXXXXXXXX1931 XXXX XXXX XXXX 1931
+05/02/22 BKOFAMERICA ATM 05/02 #000005740 WITHDRWL LINCOLN-TUSTIN ORANGE CA -500.00
+05/04/22 HONGKONGBANK(M 05/04 #000000183 WITHDRWL H S B C LIDARIDAD, M -534.21
+05/11/22 BKOFAMERICA ATM 05/11 #000007988 WITHDRWL LINCOLN-TUSTIN ORANGE CA -100.00
+05/13/22 BKOFAMERICA ATM 05/13 #000008550 WITHDRWL LINCOLN-TUSTIN ORANGE CA -500.00
+05/16/22 BKOFAMERICA ATM 05/14 #000008682 WITHDRWL LINCOLN-TUSTIN ORANGE CA -1,000.00
+05/23/22 BKOFAMERICA ATM 05/21 #000001388 WITHDRWL LINCOLN-TUSTIN ORANGE CA -800.00
+05/23/22 The Kind ATM2 05/22 #000437852 WITHDRWL 1944 N CAHUENGA B LOS ANGELES CA -63.00
+05/24/22 P338455 05/24 #000364881 WITHDRWL FARMERS MARK-3384 LOS ANGELES CA -303.00
+05/27/22 BKOFAMERICA ATM 05/27 #000003656 WITHDRWL LINCOLN-TUSTIN ORANGE CA -1,000.00
+05/31/22 BKOFAMERICA ATM 05/28 #000002868 WITHDRWL HOLLYWOOD MAIN HOLLYWOOD CA -300.00
+Subtotal for card account # XXXX XXXX XXXX 1931 -$6,123.10
+Total withdrawals and other debits -$47,865.45
+Checks
+Date Check # Amount Date Check # Amount
+05/10/22 5505 -1,136.40 05/13/22 5512 -3,000.00
+05/06/22 5506 -1,345.50 05/20/22 5513 -4,363.20
+05/06/22 5507 -174.90 05/16/22 5514 -300,000.00
+05/10/22 5508 -5,000.00 05/24/22 5515 -7,755.00
+05/12/22 5509 -1,249.20 05/24/22 5516 -3,000.00
+05/13/22 5511* -127.57 05/24/22 5517 -3,000.00
+continued on the next page
+Page 7 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Checks - continued
+Date Check # Amount Date Check # Amount
+05/27/22 5519* -2,250.00 05/19/22 6292 -1,730.00
+05/27/22 5520 -5,655.00 05/27/22 6293 -1,400.00
+05/31/22 5523* -18,325.00 05/27/22 6294 -6,000.00
+05/31/22 5524 -4,000.00 05/20/22 6295 -2,000.00
+05/02/22 6267* -3,463.10 05/20/22 6296 -1,304.80
+05/03/22 6281* -1,030.00 05/25/22 6298* -1,845.00
+05/02/22 6287* -25.00 05/19/22 6299 -2,368.00
+05/03/22 6288 -1,566.50 05/27/22 6300 -1,640.63
+05/05/22 6289 -3,362.50 05/27/22 6301 -320.00
+05/13/22 6290 -3,200.00 05/31/22 6302 -5,250.00
+05/20/22 6291 -3,368.00
+Total checks -$400,255.30
+Total # of checks 33
+* There is a gap in sequential check numbers
+Service fees
+The Monthly Fee on your primary Business Advantage Relationship Banking account was waived for the statement period ending 04/29/22. A
+check mark below indicates the requirement(s) you have met to qualify for the Monthly Fee waiver on the account.
+$15,000+ combined average monthly balance in linked business accounts has been met
+Become a member of Preferred Rewards for Business has been met
+For information on how to open a new product, link an existing service to your account, or about Preferred Rewards for Business please call
+1.888.BUSINESS or visit bankofamerica.com/smallbusiness.
+Date Transaction description Amount
+05/04/22 HONGKONGBANK(M 05/04 #000000183 WITHDRWL H S B C -5.00
+LIDARIDAD, M FEE CKCD XXXXXXXXXXXX1931
+05/23/22 Prfd Rwds for Bus-ATM Wthdrwl Fee Waiver of $2.50 -0.00
+05/24/22 Prfd Rwds for Bus-ATM Bal Inq Fee Waiver of $2.50 -0.00
+05/24/22 Prfd Rwds for Bus-ATM Wthdrwl Fee Waiver of $2.50 -0.00
+Total service fees -$5.00
+Note your Ending Balance already reflects the subtraction of Service Fees.
+Daily ledger balances
+Date Balance ($) Date Balance($) Date Balance ($)
+05/01 792,180.90 05/09 852,904.83 05/17 642,607.15
+05/02 792,929.39 05/10 853,395.71 05/18 640,285.70
+05/03 799,639.68 05/11 857,707.03 05/19 641,255.62
+05/04 800,701.58 05/12 861,147.89 05/20 638,680.74
+05/05 848,516.56 05/13 855,741.67 05/23 652,069.72
+05/06 850,184.54 05/16 562,038.47 05/24 653,353.80
+continued on the next page
+Page 8 of 16
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Daily ledger balances - continued
+Date Balance ($) Date Balance($) Date Balance ($)
+05/25 657,874.74 05/27 651,162.03 05/31 632,257.04
+05/26 664,988.40
+Page 9 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+This page intentionally left blank
+Page 10 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Check images
+Account number: 3250 8139 8050
+Check number: 5505 ! Amount: $1,136.40 Check number: 5506 ! Amount: $1,345.50
+Check number: 5507 ! Amount: $174.90 Check number: 5508 ! Amount: $5,000.00
+Check number: 5509 ! Amount: $1,249.20 Check number: 5511 ! Amount: $127.57
+Check number: 5512 ! Amount: $3,000.00 Check number: 5513 ! Amount: $4,363.20
+Check number: 5514 ! Amount: $300,000.00 Check number: 5515 ! Amount: $7,755.00
+continued on the next page
+Page 11 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 5516 ! Amount: $3,000.00 Check number: 5517 ! Amount: $3,000.00
+Check number: 5519 ! Amount: $2,250.00 Check number: 5520 ! Amount: $5,655.00
+Check number: 5523 ! Amount: $18,325.00 Check number: 5524 ! Amount: $4,000.00
+Check number: 6267 ! Amount: $3,463.10 Check number: 6281 ! Amount: $1,030.00
+Check number: 6287 ! Amount: $25.00 Check number: 6288 ! Amount: $1,566.50
+continued on the next page
+Page 12 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 6289 ! Amount: $3,362.50 Check number: 6290 ! Amount: $3,200.00
+Check number: 6291 ! Amount: $3,368.00 Check number: 6292 ! Amount: $1,730.00
+Check number: 6293 ! Amount: $1,400.00 Check number: 6294 ! Amount: $6,000.00
+Check number: 6295 ! Amount: $2,000.00 Check number: 6296 ! Amount: $1,304.80
+Check number: 6298 ! Amount: $1,845.00 Check number: 6299 ! Amount: $2,368.00
+continued on the next page
+Page 13 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 6300 ! Amount: $1,640.63 Check number: 6301 ! Amount: $320.00
+Check number: 6302 ! Amount: $5,250.00
+Page 14 of 16
+Important Messages - Please Read
+We want to make sure you stay up-to-date on changes, reminders, and other important details that
+could impact you.
+More Great News!
+On March 4, 2022, we stopped charging Returned Item Chargeback fees on personal and small business checking accounts if a
+check or item that we cashed for you or accepted for deposit to your account is returned to us unpaid.
+Earlier this year, we also announced these changes:
+· NSF: Returned Item Fees are no longer charged if we DECLINE or RETURN an item unpaid when there are not enough
+funds in your account to cover it.
+· Starting May 24, 2022 - Overdraft Protection Transfer Fees will no longer be charged for transfers to your checking
+account from your linked backup account(s) through Balance Connect(TM) for overdraft protection.
+Keep in mind, overdraft protection transfers from credit accounts and home equity lines of credit will continue to accrue
+interest, and transfers from personal savings accounts may still lead to a Withdrawal Limit Fee, as they do today.
+We are also reducing overdraft fees on personal and small business checking accounts.
+· Starting May 24, 2022 - Overdraft Item Fees will be lowered from $35 to $10 for each item we PAY when there are not
+enough funds to cover it, resulting in an overdraft on your account. We will also charge no more than two of these fees
+each day on any checking account (previously up to four fees were charged each day).
+These fee changes and earlier changes over the last decade, together with industry-leading solutions, are helping our clients
+create long-term financial wellness and avoid overdraft fees.
+Page 15 of 16
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! May 1, 2022 to May 31, 2022
+This page intentionally left blank
+Page 16 of 16

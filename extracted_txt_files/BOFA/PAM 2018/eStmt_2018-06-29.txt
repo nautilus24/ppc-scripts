@@ -1,0 +1,218 @@
+Withdrawals and other debits -71,094.29
+# of items-previous cycle¹: 61
+Checks -32,041.06
+# of days in cycle: 30
+Service fees -20.00 Average ledger balance: $45,536.34
+Ending balance on June 30, 2018 $72,051.25 ¹Includes checks paid,deposited items&other debits
+PULL: E CYCLE: 67 SPEC: E DELIVERY: E TYPE: IMAGE: I BC: CA2 Page 1 of 8
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! June 1, 2018 to June 30, 2018
+IMPORTANT INFORMATION:
+BANK DEPOSIT ACCOUNTS
+How to Contact Us - You may call us at the telephone number listed on the front of this statement.
+Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address, email
+and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of Online
+Banking.
+Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your
+account would be governed by the terms of these documents, as we may amend them from time to time. These documents are
+part of the contract for your deposit account and govern all transactions relating to your account, including all deposits and
+withdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and
+conditions of your account relationship may be obtained at our financial centers.
+Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is
+wrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,
+point-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of
+this statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on
+which the error or problem appeared.
+- Tell us your name and account number.
+- Describe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error or
+why you need more information.
+- Tell us the dollar amount of the suspected error.
+For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will
+correct any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20
+business days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is
+made to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will
+have use of the money during the time it will take to complete our investigation.
+For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our
+investigation.
+Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover
+errors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an unauthorized
+transaction within the time period specified in the deposit agreement (which periods are no more than 60 days after we make
+the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to not make a
+claim against us, for the problems or unauthorized transactions.
+Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same
+person or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online or
+visit a financial center for information.
+© 2018 Bank of America Corporation
+Page 2 of 8
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! June 1, 2018 to June 30, 2018
+Deposits and other credits
+Date Description Amount
+06/05/18 Rue La La, Inc. DES:ACH ID:AP000077359 INDN:Precision Apparel Manu CO ID:1043505021 9,519.35
+PPD
+06/06/18 BKOFAMERICA ATM 06/05 #000007780 DEPOSIT LA BREA-ROSEWOOD LOS ANGELES CA 5,155.15
+06/08/18 Bop LLC DES:EDI PYMNTS ID:EFT000000103173 INDN:Precision Appare CO 5,466.38
+ID:2391965203 CTX ADDITIONAL INFORMATION IS AVAILABLE FOR THIS PMT. CONTACT A
+TREASURY SALES OFFICER FOR ASSISTANCE.
+06/11/18 Counter Credit 14,445.95
+06/11/18 BKOFAMERICA ATM 06/11 #000007266 DEPOSIT GLEN ROCK GLEN ROCK NJ 9,164.00
+06/11/18 BKOFAMERICA ATM 06/11 #000007271 DEPOSIT GLEN ROCK GLEN ROCK NJ 936.00
+06/15/18 Bop LLC DES:EDI PYMNTS ID:EFT000000103713 INDN:Precision Appare CO 3,115.00
+ID:2391965203 CTX ADDITIONAL INFORMATION IS AVAILABLE FOR THIS PMT. CONTACT A
+TREASURY SALES OFFICER FOR ASSISTANCE.
+06/18/18 Counter Credit 27,781.28
+06/18/18 WIRE TYPE:WIRE IN DATE: 180618 TIME:1554 ET TRN:2018061800366791 752.00
+SEQ:S0681692024D01/365235 ORIG:OPERADORA DE TIENDAS INTE ID:01498054 SND BK:
+CITIBANK, N.A. ID:0008 PMT DET:PAYMENTO TO PROVIDE R / INVOICE NO
+06/18/18 Counter Credit 512.00
+06/20/18 Bop LLC DES:EDI PYMNTS ID:EFT000000103976 INDN:Precision Appare CO 1,076.90
+ID:2391965203 CTX ADDITIONAL INFORMATION IS AVAILABLE FOR THIS PMT. CONTACT A
+TREASURY SALES OFFICER FOR ASSISTANCE.
+06/27/18 BKOFAMERICA ATM 06/27 #000006874 DEPOSIT LA BREA-ROSEWOOD LOS ANGELES CA 46.00
+06/29/18 Counter Credit 43,314.50
+06/29/18 Bop LLC DES:EDI PYMNTS ID:EFT000000104737 INDN:Precision Appare CO 2,670.00
+ID:2391965203 CTX ADDITIONAL INFORMATION IS AVAILABLE FOR THIS PMT. CONTACT A
+TREASURY SALES OFFICER FOR ASSISTANCE.
+Total deposits and other credits $123,954.51
+Withdrawals and other debits
+Date Description Amount
+continued on the next page
+Page 3 of 8
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! June 1, 2018 to June 30, 2018
+Withdrawals and other debits - continued
+Date Description Amount
+06/01/18 AMERICAN EXPRESS DES:ACH PMT ID:W7748 INDN:Precision Apparel Manu CO -490.67
+ID:1133133497 WEB
+06/04/18 CA TLR cash withdrawal from CHK 8050 -500.00
+06/04/18 HOLLANDPARTNERS- DES:WEB PMTS ID:986V23 INDN:RamNarayanan CO -4,335.31
+ID:9000298049 WEB
+06/04/18 AMERICAN EXPRESS DES:ACH PMT ID:W4168 INDN:Precision Apparel Manu CO -3,881.01
+ID:1133133497 WEB
+06/04/18 CHASE CREDIT CRD DES:EPAY ID:3605412833 INDN:RAM NARAYANAN CO -2,244.12
+ID:5760039224 WEB
+06/05/18 CHASE CREDIT CRD DES:EPAY ID:3610206510 INDN:RAM NARAYANAN CO -1,016.86
+ID:5760039224 WEB
+06/11/18 CA TLR cash withdrawal from CHK 8050 -4,000.00
+06/11/18 AMERICAN EXPRESS DES:ACH PMT ID:W5220 INDN:Precision Apparel Manu CO -1,180.93
+ID:1133133497 WEB
+06/11/18 AMERICAN EXPRESS DES:ACH PMT ID:W4378 INDN:Precision Apparel Manu CO -707.46
+ID:1133133497 WEB
+06/11/18 CHASE CREDIT CRD DES:EPAY ID:3620159671 INDN:RAM NARAYANAN CO -592.61
+ID:5760039224 WEB
+06/13/18 CA TLR cash withdrawal from CHK 8050 -2,000.00
+06/14/18 AMERICAN EXPRESS DES:ACH PMT ID:W7116 INDN:Precision Apparel Manu CO -3,638.78
+ID:1133133497 WEB
+06/14/18 AMERICAN EXPRESS DES:ACH PMT ID:W5302 INDN:Precision Apparel Manu CO -570.59
+ID:1133133497 WEB
+06/15/18 CA TLR cash withdrawal from CHK 8050 -4,400.00
+06/15/18 CHASE CREDIT CRD DES:EPAY ID:3624685682 INDN:RAM NARAYANAN CO -652.99
+ID:5760039224 WEB
+06/18/18 CAPITAL ONE DES:ONLINE PMT ID:816739910006773 INDN:8885560128NARAYANANMAN -5,780.14
+CO ID:9279744991 CCD
+06/18/18 AMERICAN EXPRESS DES:ACH PMT ID:W9976 INDN:Precision Apparel Manu CO -991.76
+ID:1133133497 WEB
+06/19/18 AMERICAN EXPRESS DES:ACH PMT ID:W3956 INDN:Precision Apparel Manu CO -13,375.75
+ID:1133133497 WEB
+06/19/18 AMERICAN EXPRESS DES:ACH PMT ID:W2706 INDN:Precision Apparel Manu CO -1,304.85
+ID:1133133497 WEB
+06/20/18 AMERICAN EXPRESS DES:ACH PMT ID:W1546 INDN:Precision Apparel Manu CO -1,108.53
+ID:1133133497 WEB
+06/22/18 CA TLR cash withdrawal from CHK 8050 -5,000.00
+06/22/18 CHASE CREDIT CRD DES:EPAY ID:3635128089 INDN:RAM NARAYANAN CO -2,080.58
+ID:5760039224 WEB
+06/27/18 CHASE CREDIT CRD DES:EPAY ID:3641486674 INDN:RAM NARAYANAN CO -2,322.96
+ID:5760039224 WEB
+06/28/18 CA TLR cash withdrawal from CHK 8050 -2,000.00
+06/29/18 CA TLR cash withdrawal from CHK 8050 -5,000.00
+06/29/18 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -371.40
+ID:9200704262 PPD
+Card account # XXXX XXXX XXXX 6846
+06/04/18 ARCO #42433 06/04 #000579104 PURCHASE ARCO #42433 LOS ANGELES CA -39.56
+06/11/18 ARCO #42433 06/08 #000649639 PURCHASE ARCO #42433 LOS ANGELES CA -64.60
+06/11/18 BKOFAMERICA ATM 06/08 #000001132 WITHDRWL HOLLYWOOD MAIN HOLLYWOOD CA -340.00
+continued on the next page
+Page 4 of 8
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! June 1, 2018 to June 30, 2018
+Withdrawals and other debits - continued
+Date Description Amount
+06/14/18 ARCO #42433 06/14 #000541273 PURCHASE ARCO #42433 LOS ANGELES CA -65.20
+06/22/18 ARCO #42444 06/21 #000792024 PURCHASE ARCO #42444 VAN NUYS CA -52.35
+06/27/18 BKOFAMERICA ATM 06/27 #000006875 WITHDRWL LA BREA-ROSEWOOD LOS ANGELES CA -100.00
+06/27/18 ARCO #42444 06/27 #000418337 PURCHASE ARCO #42444 VAN NUYS CA -54.25
+Subtotal for card account # XXXX XXXX XXXX 6846 -$715.96
+Card account # XXXX XXXX XXXX 8908
+06/04/18 BKOFAMERICA ATM 06/04 #000002497 WITHDRWL LINCOLN-TUSTIN ORANGE CA -200.00
+06/11/18 CHECKCARD 0609 JUSTINO`S PIZZERIA NEW YORK NY 24603168161016043988952 CKCD -8.71
+5812 XXXXXXXXXXXX8908 XXXX XXXX XXXX 8908
+06/18/18 BKOFAMERICA ATM 06/16 #000001595 WITHDRWL EAST HOLLYWOOD LOS ANGELES CA -100.00
+06/18/18 BKOFAMERICA ATM 06/18 #000007427 WITHDRWL LINCOLN-TUSTIN ORANGE CA -200.00
+06/20/18 CHECKCARD 0618 DEL TACO 0082 ORANGE CA 24224438171101038586880 CKCD 5814 -17.82
+XXXXXXXXXXXX8908 XXXX XXXX XXXX 8908
+06/25/18 Avenue Nightcl 06/23 #000132034 WITHDRWL 1601 Cahuenga Ave Los Angeles CA -204.50
+06/25/18 BKOFAMERICA ATM 06/25 #000009915 WITHDRWL LINCOLN-TUSTIN ORANGE CA -100.00
+Subtotal for card account # XXXX XXXX XXXX 8908 -$831.03
+Total withdrawals and other debits -$71,094.29
+Checks
+Date Check # Amount Date Check # Amount
+06/15/18 1429 -560.00 06/13/18 1455 -3,013.00
+06/01/18 1440* -355.58 06/13/18 1456 -1,248.90
+06/04/18 1445* -3,210.00 06/20/18 1457 -3,500.00
+06/08/18 1446 -159.10 06/14/18 1459* -290.00
+06/05/18 1448* -6,000.00 06/22/18 1460 -244.90
+06/04/18 1449 -6,000.00 06/21/18 1462* -600.00
+06/06/18 1450 -702.78 06/27/18 1463 -298.95
+06/05/18 1451 -150.00 06/25/18 1464 -1,486.65
+06/13/18 1453* -2,000.00 06/27/18 1468* -310.00
+06/15/18 1454 -1,617.00 06/29/18 1471* -294.20
+Total checks -$32,041.06
+Total # of checks 20
+* There is a gap in sequential check numbers
+Page 5 of 8
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! June 1, 2018 to June 30, 2018
+Service fees
+The Monthly Fee on your Business Fundamentals Checking account was waived for the statement period ending 05/31/18. A check mark
+below indicates the requirement(s) you have met to qualify for the Monthly Fee waiver on the account.
+$250+ in new net purchases on a linked Business debit card
+$250+ in new net purchases on a linked Business credit card
+$3,000+ minimum daily balance in primary checking account
+$5,000+ average monthly balance in primary checking account
+$15,000+ combined average monthly balance in linked business accounts
+enrolled in Business Advantage Relationship Rewards
+For information on how to open a new product, link an existing service to your account, or about Business Advantage Relationship
+Rewards please call 1.888.BUSINESS or visit bankofamerica.com/smallbusiness.
+Date Transaction description Amount
+06/19/18 Wire Transfer Fee -15.00
+06/25/18 Avenue Nigh 06/23 #000031877 BAL INQ 1601 Cahuenga Ave -2.50
+FEE
+06/25/18 Avenue Nightcl 06/23 #000132034 WITHDRWL 1601 Cahuenga Ave Los -2.50
+Angeles CA FEE CKCD XXXXXXXXXXXX8908
+Total service fees -$20.00
+Note your Ending Balance already reflects the subtraction of Service Fees.
+Daily ledger balances
+Date Balance ($) Date Balance($) Date Balance ($)
+06/01 50,405.84 06/13 51,497.72 06/21 45,946.49
+06/04 29,995.84 06/14 46,933.15 06/22 38,568.66
+06/05 32,348.33 06/15 42,818.16 06/25 36,772.51
+06/06 36,800.70 06/18 64,791.54 06/27 33,732.35
+06/08 42,107.98 06/19 50,095.94 06/28 31,732.35
+06/11 59,759.62 06/20 46,546.49 06/29 72,051.25
+Page 6 of 8
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! June 1, 2018 to June 30, 2018
+Check images
+Account number: 3250 8139 8050
+Check number: 1429 ! Amount: $560.00 Check number: 1440 ! Amount: $355.58
+Check number: 1445 ! Amount: $3,210.00 Check number: 1446 ! Amount: $159.10
+Check number: 1448 ! Amount: $6,000.00 Check number: 1449 ! Amount: $6,000.00
+Check number: 1450 ! Amount: $702.78 Check number: 1451 ! Amount: $150.00
+Check number: 1453 ! Amount: $2,000.00 Check number: 1454 ! Amount: $1,617.00
+continued on the next page
+Page 7 of 8
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! June 1, 2018 to June 30, 2018
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 1455 ! Amount: $3,013.00 Check number: 1456 ! Amount: $1,248.90
+Check number: 1457 ! Amount: $3,500.00 Check number: 1459 ! Amount: $290.00
+Check number: 1460 ! Amount: $244.90 Check number: 1462 ! Amount: $600.00
+Check number: 1463 ! Amount: $298.95 Check number: 1464 ! Amount: $1,486.65
+Check number: 1468 ! Amount: $310.00 Check number: 1471 ! Amount: $294.20
+Page 8 of 8

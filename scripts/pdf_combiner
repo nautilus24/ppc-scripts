@@ -1,0 +1,26 @@
+import PyPDF2
+import os
+
+# Define the path where your PDF files are located
+pdf_dir = 'scripts/assets/pdf_assets/pdf_combiner'
+
+# List all the PDF files in the directory
+pdf_files = [f for f in os.listdir(pdf_dir) if f.endswith('.pdf')]
+
+# Sort the files by name to ensure correct order
+pdf_files.sort()
+
+# Create a PDF merger object
+pdf_merger = PyPDF2.PdfMerger()
+
+# Loop through all the PDF files and append them
+for pdf in pdf_files:
+    pdf_path = os.path.join(pdf_dir, pdf)
+    pdf_merger.append(pdf_path)
+
+# Write out the merged PDF to a new file
+output_path = 'scripts/assets/pdf_assets/combined.pdf'
+with open(output_path, 'wb') as output_file:
+    pdf_merger.write(output_file)
+
+print(f'Successfully combined {len(pdf_files)} PDFs into {output_path}')

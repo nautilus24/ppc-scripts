@@ -8,24 +8,27 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 def main():
-    pdf_path = 'scripts/assets/data_pdf.pdf'
+    pdf_path = 'scripts/assets/PO 330197.pdf'
     text = extract_text_from_pdf(pdf_path)
-    #print(text)
+    print(text)
 
     # Use regular expressions to find all occurrences of the desired patterns
-    po_numbers = re.findall(r'PO:\s*(\d+)', text)
+    # po_numbers = re.findall(r'PO:\s*(\d+)', text)
     quantities = re.findall(r'QTY:\s*(\d+)', text)
-    carton_texts = re.findall(r'Carton:\s*([^\n]*)', text)
+    # carton_texts = re.findall(r'Carton \s*([^\n]*)', text)
     store_numbers = re.findall(r'STORE #\s*(\d+)', text)
+    # print(store_numbers)
     
     # Combine the extracted values into a list of tuples
-    data = list(zip(po_numbers, quantities, carton_texts, store_numbers))
+    data = list(zip(quantities, store_numbers))
+    # print(data)
     
     # Create a pandas dataframe from the data
-    df = pd.DataFrame(data, columns=['PO Number', 'Quantity', 'Carton', 'Store Number'])
+    df = pd.DataFrame(data, columns=['Quantity','Store Number'])
+    print(df)
     
     # Write the dataframe to an Excel file
-    df.to_excel('output.xlsx', index=False)
+    df.to_excel('output_temp.xlsx', index=False)
         
 if __name__ == '__main__':
     main()

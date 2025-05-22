@@ -1,0 +1,219 @@
+Withdrawals and other debits -14,185.09
+# of items-previous cycle¹: 26
+Checks -74,319.71
+# of days in cycle: 31
+Service fees -0.00 Average ledger balance: $82,602.90
+Ending balance on March 31, 2020 $90,354.56 ¹Includes checks paid,deposited items&other debits
+PULL: E CYCLE: 67 SPEC: E DELIVERY: E TYPE: IMAGE: I BC: CA6 Page 1 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+IMPORTANT INFORMATION:
+BANK DEPOSIT ACCOUNTS
+How to Contact Us - You may call us at the telephone number listed on the front of this statement.
+Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address,
+email and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of
+Online Banking.
+Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your
+account would be governed by the terms of these documents, as we may amend them from time to time. These documents are
+part of the contract for your deposit account and govern all transactions relating to your account, including all deposits and
+withdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and
+conditions of your account relationship may be obtained at our financial centers.
+Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is
+wrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,
+point-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of
+this statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on
+which the error or problem appeared.
+- Tell us your name and account number.
+- Describe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error
+or why you need more information.
+- Tell us the dollar amount of the suspected error.
+For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will
+correct any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20
+business days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is
+made to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will
+have use of the money during the time it will take to complete our investigation.
+For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our
+investigation.
+Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover
+errors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an
+unauthorized transaction within the time period specified in the deposit agreement (which periods are no more than 60 days
+after we make the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to
+not make a claim against us, for the problems or unauthorized transactions.
+Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same
+person or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online
+or visit a financial center for information.
+©2020 Bank of America Corporation
+Page 2 of 10
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+Deposits and other credits
+Date Description Amount
+03/02/20 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 2,250.00
+ID:1208442468 CCD
+03/02/20 BANK OF AMERICA DES:TRIALCREDT ID:XXXXXXXXX INDN:PRECISION APPARE CO 0.01
+ID:9088871070 PPD
+03/04/20 BKOFAMERICA ATM 03/04 #000001547 DEPOSIT 95 WALL STREET NEW YORK NY 12,142.16
+03/04/20 MIAMI MART GIFTS DES:VENDOR PMT ID:XXXXXXXXX INDN:PRECISION APPARE CO 416.00
+ID:SXXXXXXXXX PPD
+03/04/20 Shopify DES:TRANSFER ID:ST-W1O0F2B0E8S5 INDN:RAM NARAYANAN CO 207.98
+ID:1800948598 CCD
+03/05/20 Counter Credit 160.00
+03/05/20 Shopify DES:TRANSFER ID:ST-U9J8M8F5K5E5 INDN:RAM NARAYANAN CO 65.68
+ID:1800948598 CCD
+03/09/20 NJ TLR transfer 15,000.00
+03/10/20 Shopify DES:TRANSFER ID:ST-B0G8S7D3G7G9 INDN:RAM NARAYANAN CO 52.44
+ID:1800948598 CCD
+03/11/20 NJ TLR transfer 10,000.00
+03/13/20 Flip Fit DES:Bill.com ID:016VFFOOQ1CKCBA INDN:Precision Apparel Manu CO 136.50
+ID:1204895317 CCD PMT INFO: Flip Fit Bill.com 016VFFOOQ1CKCB A Inv #02152020
+03/16/20 BKOFAMERICA ATM 03/15 #000005093 DEPOSIT 95 WALL STREET NEW YORK NY 26,801.54
+03/16/20 NJ TLR transfer 15,000.00
+03/18/20 FashionGo DES:FashionGo ID:ST-K2V3V1B2F6P3 INDN:RAM NARAYANAN CO 691.47
+ID:1800948598 CCD
+03/20/20 FashionGo DES:FashionGo ID:ST-J5W1X9T9E7Z1 INDN:RAM NARAYANAN CO 557.86
+ID:1800948598 CCD
+03/23/20 BKOFAMERICA ATM 03/21 #000004502 DEPOSIT RIDGEWOOD RIDGEWOOD NJ 2,806.90
+03/23/20 FashionGo DES:FashionGo ID:ST-F0X7U6U4N4F3 INDN:RAM NARAYANAN CO 817.54
+ID:1800948598 CCD
+03/24/20 FashionGo DES:FashionGo ID:ST-Q3N1X3U6N4E1 INDN:RAM NARAYANAN CO 116.34
+ID:1800948598 CCD
+continued on the next page
+Page 3 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+Deposits and other credits - continued
+Date Description Amount
+03/25/20 FashionGo DES:FashionGo ID:ST-L2N1K2U3B8Y4 INDN:RAM NARAYANAN CO 142.44
+ID:1800948598 CCD
+03/26/20 BKOFAMERICA ATM 03/26 #000007584 DEPOSIT GLEN ROCK GLEN ROCK NJ 6,822.40
+03/30/20 NJ TLR transfer 13,000.00
+03/30/20 FashionGo DES:FashionGo ID:ST-Z2K5Q6B4V6Q1 INDN:RAM NARAYANAN CO 855.07
+ID:1800948598 CCD
+Total deposits and other credits $108,042.33
+Withdrawals and other debits
+Date Description Amount
+03/02/20 CHASE CREDIT CRD DES:EPAY ID:4566538631 INDN:MANGLAM NARAYANAN CO -1,035.13
+ID:5760039224 WEB
+03/02/20 LA 1000 SANTA FE DES:MEMBERSHIP ID:0003158426 INDN:RAM NARAYANAN CO -903.38
+ID:1472504154 WEB
+03/02/20 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -371.40
+ID:9200704262 PPD
+03/04/20 AMERICAN EXPRESS DES:ACH PMT ID:W0244 INDN:Precision Apparel Manu CO -480.58
+ID:1133133497 CCD
+03/06/20 AMERICAN EXPRESS DES:ACH PMT ID:W2504 INDN:Precision Apparel Manu CO -1,205.08
+ID:1133133497 CCD
+03/12/20 Shopify DES:TRANSFER ID:ST-L4B4V4F3J9O7 INDN:RAM NARAYANAN CO -19.70
+ID:1800948598 CCD
+03/16/20 CA TLR cash withdrawal from CHK 8050 -800.00
+03/16/20 AMERICAN EXPRESS DES:ACH PMT ID:W8502 INDN:Precision Apparel Manu CO -797.16
+ID:1133133497 CCD
+03/18/20 CON ED OF NY DES:INTELL CK ID:401001110812099 INDN:RAJ NARAYANAN CO -48.54
+ID:2462467002 PPD
+03/19/20 AMERICAN EXPRESS DES:ACH PMT ID:W3834 INDN:Precision Apparel Manu CO -82.30
+ID:1133133497 CCD
+03/20/20 AFI DES:ALLY PAYMT ID:628929072465 INDN:PRECISION APPAREL CO -535.00
+ID:9833122002 CCD
+03/23/20 CA TLR cash withdrawal from CHK 8050 -4,000.00
+03/27/20 AMERICAN EXPRESS DES:ACH PMT ID:W4998 INDN:Precision Apparel Manu CO -321.36
+ID:1133133497 CCD
+03/30/20 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -371.42
+ID:9200704262 PPD
+03/30/20 AMERICAN EXPRESS DES:ACH PMT ID:W0522 INDN:Precision Apparel Manu CO -314.04
+ID:1133133497 CCD
+Card account # XXXX XXXX XXXX 8908
+03/02/20 BKOFAMERICA ATM 02/29 #000007107 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+03/02/20 BKOFAMERICA ATM 03/02 #000002524 WITHDRWL WILSHIRE & UNION LOS ANGELES CA -300.00
+03/06/20 BKOFAMERICA ATM 03/05 #000003021 WITHDRWL SUNSET-OGDEN LOS ANGELES CA -200.00
+03/09/20 BKOFAMERICA ATM 03/07 #000009570 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+03/20/20 BKOFAMERICA ATM 03/20 #000004350 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+03/27/20 BKOFAMERICA ATM 03/27 #000006396 WITHDRWL WILSHIRE & UNION LOS ANGELES CA -600.00
+Subtotal for card account # XXXX XXXX XXXX 8908 -$2,900.00
+Total withdrawals and other debits -$14,185.09
+Page 4 of 10
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+Checks
+Date Check # Amount Date Check # Amount
+03/03/20 3439 -1,402.00 03/18/20 3464 -1,762.56
+03/02/20 3440 -2,697.00 03/23/20 3465 -1,466.09
+03/31/20 3442* -1,028.50 03/26/20 3467* -2,747.00
+03/02/20 3443 -3,912.00 03/31/20 3469* -7,898.86
+03/12/20 3444 -3,185.00 03/31/20 3470 -5,257.00
+03/05/20 3445 -3,943.10 03/04/20 5013* -7,951.82
+03/05/20 3446 -324.87 03/09/20 5014 -1,026.00
+03/11/20 3457* -4,261.55 03/05/20 5019* -367.20
+03/16/20 3458 -598.00 03/05/20 5020 -3,306.30
+03/24/20 3459 -7,396.50 03/13/20 5021 -556.36
+03/13/20 3460 -500.00 03/30/20 5023* -2,500.00
+03/13/20 3461 -5,000.00 03/31/20 5024 -726.00
+03/19/20 3463* -4,506.00
+Total checks -$74,319.71
+Total # of checks 25
+* There is a gap in sequential check numbers
+Service fees
+The Monthly Fee on your Business Advantage Checking account was waived for the statement period ending 02/28/20. A check mark below
+indicates the requirement(s) you have met to qualify for the Monthly Fee waiver on the account.
+$2,500+ in new net purchases on a linked Business credit card
+$15,000+ average monthly balance in primary checking account
+$35,000+ combined average monthly balance in linked business accounts
+active use of Bank of America Merchant Services
+active use of Payroll Services
+enrolled in Business Advantage Relationship Rewards
+For information on how to open a new product, link an existing service to your account, or about Business Advantage Relationship Rewards
+please call 1.888.BUSINESS or visit bankofamerica.com/smallbusiness.
+Page 5 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+Daily ledger balances
+Date Balance ($) Date Balance($) Date Balance ($)
+03/01 70,817.03 03/11 76,223.89 03/23 98,578.99
+03/02 63,248.13 03/12 73,019.19 03/24 91,298.83
+03/03 61,846.13 03/13 67,099.33 03/25 91,441.27
+03/04 66,179.87 03/16 106,705.71 03/26 95,516.67
+03/05 58,464.08 03/18 105,586.08 03/27 94,595.31
+03/06 57,059.00 03/19 100,997.78 03/30 105,264.92
+03/09 70,433.00 03/20 100,420.64 03/31 90,354.56
+03/10 70,485.44
+Page 6 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+Check images
+Account number: 3250 8139 8050
+Check number: 3439 ! Amount: $1,402.00 Check number: 3440 ! Amount: $2,697.00
+Check number: 3442 ! Amount: $1,028.50 Check number: 3443 ! Amount: $3,912.00
+Check number: 3444 ! Amount: $3,185.00 Check number: 3445 ! Amount: $3,943.10
+Check number: 3446 ! Amount: $324.87 Check number: 3457 ! Amount: $4,261.55
+Check number: 3458 ! Amount: $598.00 Check number: 3459 ! Amount: $7,396.50
+continued on the next page
+Page 7 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 3460 ! Amount: $500.00 Check number: 3461 ! Amount: $5,000.00
+Check number: 3463 ! Amount: $4,506.00 Check number: 3464 ! Amount: $1,762.56
+Check number: 3465 ! Amount: $1,466.09 Check number: 3467 ! Amount: $2,747.00
+Check number: 3469 ! Amount: $7,898.86 Check number: 3470 ! Amount: $5,257.00
+Check number: 5013 ! Amount: $7,951.82 Check number: 5014 ! Amount: $1,026.00
+continued on the next page
+Page 8 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2020 to March 31, 2020
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 5019 ! Amount: $367.20 Check number: 5020 ! Amount: $3,306.30
+Check number: 5021 ! Amount: $556.36 Check number: 5023 ! Amount: $2,500.00
+Check number: 5024 ! Amount: $726.00
+Page 9 of 10
+Important Messages - Please Read
+We want to make sure you stay up-to-date on changes, reminders, and other important details that
+could impact you.
+On May 21, 2020, we are increasing the amount of funds that will be available when a check deposit is put on hold.
+Here are the updates to your Deposit Agreement and Disclosures. You can see these updates at
+bankofamerica.com/depositagreement after the May effective date.
+When a hold is placed on your check deposit:
+· The first $225 (previously $200) of your check deposit will be available the next business day (see "Longer Delays May
+Apply").
+· For certain check deposits into new accounts, the first $5,525 (previously $5,000) of a day's total deposits will be
+available the next business day (see "Special Rules for New Accounts").
+· Cash withdrawal limitations will no longer apply (previously $400) (see "Cash-Withdrawal Limitation," to be deleted in
+May).
+In addition, we may place a longer hold when you deposit checks totaling more than $5,525 (previously $5,000) on any one day
+(see "Longer Delays May Apply").
+For additional information regarding the availability of funds after a check deposit, please review the "When Funds are Available
+for Withdrawal and Deposit Holds" section of our Deposit Agreement at www.bankofamerica.com/depositagreement.
+Page 10 of 10

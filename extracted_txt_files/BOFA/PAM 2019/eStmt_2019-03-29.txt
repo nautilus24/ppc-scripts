@@ -1,0 +1,196 @@
+Withdrawals and other debits -13,534.71
+# of items-previous cycle¹: 33
+Checks -50,489.22
+# of days in cycle: 31
+Service fees -35.00 Average ledger balance: $18,336.91
+Ending balance on March 31, 2019 $25,538.57 ¹Includes checks paid,deposited items&other debits
+PULL: E CYCLE: 67 SPEC: E DELIVERY: E TYPE: IMAGE: I BC: CA8 Page 1 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+IMPORTANT INFORMATION:
+BANK DEPOSIT ACCOUNTS
+How to Contact Us - You may call us at the telephone number listed on the front of this statement.
+Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address, email
+and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of Online
+Banking.
+Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your
+account would be governed by the terms of these documents, as we may amend them from time to time. These documents are
+part of the contract for your deposit account and govern all transactions relating to your account, including all deposits and
+withdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and
+conditions of your account relationship may be obtained at our financial centers.
+Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is
+wrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,
+point-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of
+this statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on
+which the error or problem appeared.
+- Tell us your name and account number.
+- Describe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error or
+why you need more information.
+- Tell us the dollar amount of the suspected error.
+For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will
+correct any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20
+business days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is
+made to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will
+have use of the money during the time it will take to complete our investigation.
+For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our
+investigation.
+Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover
+errors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an unauthorized
+transaction within the time period specified in the deposit agreement (which periods are no more than 60 days after we make
+the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to not make a
+claim against us, for the problems or unauthorized transactions.
+Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same
+person or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online or
+visit a financial center for information.
+© 2019 Bank of America Corporation
+Page 2 of 10
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+Deposits and other credits
+Date Description Amount
+03/04/19 BKOFAMERICA ATM 03/02 #000001826 DEPOSIT LA BREA-ROSEWOOD LOS ANGELES CA 5,311.83
+03/11/19 Counter Credit 20,880.00
+03/12/19 BKOFAMERICA ATM 03/12 #000004433 DEPOSIT LA BREA-ROSEWOOD LOS ANGELES CA 2,774.25
+03/22/19 WIRE TYPE:WIRE IN DATE: 190322 TIME:1718 ET TRN:2019032200451124 1,598.00
+SEQ:S06908134B4F01/037350 ORIG:OPERADORA DE TIENDAS INTE ID:01498054 SND BK:
+CITIBANK, N.A. ID:021000089 PMT DET:PAYMENTO TO PR OVIDER / INVOICE NO
+03/25/19 Counter Credit 37,364.09
+03/28/19 WIRE TYPE:WIRE IN DATE: 190328 TIME:1732 ET TRN:2019032800501844 614.00
+SEQ:S0690873100301/041694 ORIG:IMAGEN MARCA Y CALIDAD SA ID:02886729 SND BK:
+CITIBANK, N.A. ID:021000089 PMT DET:PAYMENTO TO PR OVIDER / INVOICE NO
+Total deposits and other credits $68,542.17
+Withdrawals and other debits
+Date Description Amount
+03/01/19 CA TLR cash withdrawal from CHK 8050 -1,400.00
+03/01/19 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -371.40
+ID:9200704262 PPD
+03/12/19 CA TLR cash withdrawal from CHK 8050 -2,000.00
+03/19/19 AMERICAN EXPRESS DES:ACH PMT ID:W3998 INDN:Precision Apparel Manu CO -791.24
+ID:1133133497 WEB
+03/19/19 BARCLAYCARD US DES:CREDITCARD ID:XXXXXXXXX INDN:RAJ NARAYANAN CO -89.00
+ID:2510407970 WEB
+03/19/19 BARCLAYCARD US DES:CREDITCARD ID:XXXXXXXXX INDN:RAM NARAYANAN CO -89.00
+ID:2510407970 WEB
+03/21/19 CA TLR transfer to CHK 8968 -800.00
+03/21/19 CA TLR cash withdrawal from CHK 8050 -600.00
+03/26/19 CAPITAL ONE DES:ONLINE PMT ID:908539910223214 INDN:NARAYANANMANGLAM CO -4,486.24
+ID:9279744991 CCD
+03/29/19 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -371.40
+ID:9200704262 PPD
+continued on the next page
+Page 3 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+Withdrawals and other debits - continued
+Date Description Amount
+Card account # XXXX XXXX XXXX 6846
+03/15/19 BKOFAMERICA ATM 03/15 #000002751 WITHDRWL HOLLYWOOD MAIN HOLLYWOOD CA -400.00
+03/18/19 BKOFAMERICA ATM 03/16 #000003508 WITHDRWL CANYON PLAZA SUN VALLEY CA -500.00
+03/18/19 BKOFAMERICA ATM 03/17 #000007230 WITHDRWL SUNSET-OGDEN LOS ANGELES CA -200.00
+03/21/19 BKOFAMERICA ATM 03/20 #000002356 WITHDRWL HOLLYWOOD MAIN HOLLYWOOD CA -400.00
+03/25/19 BKOFAMERICA ATM 03/23 #000006595 WITHDRWL LA BREA-ROSEWOOD LOS ANGELES CA -300.00
+03/25/19 CHECKCARD 0325 ARCO #42433 LOS ANGELES CA CKCD 5542 XXXXXXXXXXXX6846 XXXX -30.43
+XXXX XXXX 6846
+03/25/19 BKOFAMERICA ATM 03/25 #000005704 WITHDRWL HOLLYWOOD MAIN HOLLYWOOD CA -100.00
+Subtotal for card account # XXXX XXXX XXXX 6846 -$1,930.43
+Card account # XXXX XXXX XXXX 8908
+03/04/19 BKOFAMERICA ATM 03/04 #000002516 WITHDRWL LINCOLN-TUSTIN ORANGE CA -100.00
+03/11/19 BKOFAMERICA ATM 03/11 #000004964 WITHDRWL LINCOLN-TUSTIN ORANGE CA -100.00
+03/13/19 P399678 03/12 #000869883 WITHDRWL PLA-BOY LIQU-3996 LOS ANGELES CA -203.00
+03/27/19 P316709 03/27 #000452000 WITHDRWL PACIFIC CHEV-3167 SANTA MONICA CA -203.00
+Subtotal for card account # XXXX XXXX XXXX 8908 -$606.00
+Total withdrawals and other debits -$13,534.71
+Checks
+Date Check # Amount Date Check # Amount
+03/01/19 3116 -3,736.00 03/14/19 3143 -1,500.00
+03/04/19 3126* -400.00 03/18/19 3144 -100.00
+03/04/19 3127 -300.00 03/21/19 3145 -440.00
+03/05/19 3128 -176.16 03/20/19 3146 -865.40
+03/04/19 3129 -2,015.00 03/15/19 3147 -850.00
+03/13/19 3130 -2,788.00 03/18/19 3148 -800.00
+03/13/19 3131 -2,116.00 03/20/19 3149 -250.00
+03/06/19 3132 -3,750.00 03/18/19 3150 -375.00
+03/06/19 3133 -172.80 03/18/19 3151 -160.00
+03/05/19 3134 -460.00 03/19/19 3152 -63.00
+03/05/19 3135 -1,950.00 03/26/19 3153 -3,906.00
+03/11/19 3136 -450.00 03/25/19 3154 -200.00
+03/13/19 3137 -247.52 03/25/19 3155 -250.00
+03/14/19 3138 -6,598.13 03/25/19 3156 -410.00
+03/19/19 3139 -105.40 03/25/19 3157 -300.00
+03/18/19 3140 -101.06 03/27/19 3174* -3,724.00
+03/18/19 3141 -3,210.00 03/27/19 3175 -750.00
+03/18/19 3142 -1,026.00 03/26/19 3176 -5,943.75
+Total checks -$50,489.22
+Total # of checks 36
+* There is a gap in sequential check numbers
+Page 4 of 10
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+Service fees
+The Monthly Fee on your Business Fundamentals Checking account was waived for the statement period ending 02/28/19. A check mark
+below indicates the requirement(s) you have met to qualify for the Monthly Fee waiver on the account.
+$250+ in new net purchases on a linked Business debit card
+$250+ in new net purchases on a linked Business credit card
+$3,000+ minimum daily balance in primary checking account
+$5,000+ average monthly balance in primary checking account
+$15,000+ combined average monthly balance in linked business accounts
+enrolled in Business Advantage Relationship Rewards
+For information on how to open a new product, link an existing service to your account, or about Business Advantage Relationship
+Rewards please call 1.888.BUSINESS or visit bankofamerica.com/smallbusiness.
+Date Transaction description Amount
+03/13/19 P399678 03/12 #000869883 WITHDRWL PLA-BOY LIQU-3996 LOS -2.50
+ANGELES CA FEE CKCD XXXXXXXXXXXX8908
+03/25/19 Wire Transfer Fee -15.00
+03/27/19 P316709 03/27 #000452000 WITHDRWL PACIFIC CHEV-3167 SANTA -2.50
+MONICA CA FEE CKCD XXXXXXXXXXXX8908
+03/29/19 Wire Transfer Fee -15.00
+Total service fees -$35.00
+Note your Ending Balance already reflects the subtraction of Service Fees.
+Daily ledger balances
+Date Balance ($) Date Balance($) Date Balance ($)
+03/01 15,547.93 03/14 19,184.90 03/22 8,567.80
+03/04 18,044.76 03/15 17,934.90 03/25 44,326.46
+03/05 15,458.60 03/18 11,462.84 03/26 29,990.47
+03/06 11,535.80 03/19 10,325.20 03/27 25,310.97
+03/11 31,865.80 03/20 9,209.80 03/28 25,924.97
+03/12 32,640.05 03/21 6,969.80 03/29 25,538.57
+03/13 27,283.03
+Page 5 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+This page intentionally left blank
+Page 6 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+Check images
+Account number: 3250 8139 8050
+Check number: 3116 ! Amount: $3,736.00 Check number: 3126 ! Amount: $400.00
+Check number: 3127 ! Amount: $300.00 Check number: 3128 ! Amount: $176.16
+Check number: 3129 ! Amount: $2,015.00 Check number: 3130 ! Amount: $2,788.00
+Check number: 3131 ! Amount: $2,116.00 Check number: 3132 ! Amount: $3,750.00
+Check number: 3133 ! Amount: $172.80 Check number: 3134 ! Amount: $460.00
+continued on the next page
+Page 7 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 3135 ! Amount: $1,950.00 Check number: 3136 ! Amount: $450.00
+Check number: 3137 ! Amount: $247.52 Check number: 3138 ! Amount: $6,598.13
+Check number: 3139 ! Amount: $105.40 Check number: 3140 ! Amount: $101.06
+Check number: 3141 ! Amount: $3,210.00 Check number: 3142 ! Amount: $1,026.00
+Check number: 3143 ! Amount: $1,500.00 Check number: 3144 ! Amount: $100.00
+continued on the next page
+Page 8 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 3145 ! Amount: $440.00 Check number: 3146 ! Amount: $865.40
+Check number: 3147 ! Amount: $850.00 Check number: 3148 ! Amount: $800.00
+Check number: 3149 ! Amount: $250.00 Check number: 3150 ! Amount: $375.00
+Check number: 3151 ! Amount: $160.00 Check number: 3152 ! Amount: $63.00
+Check number: 3153 ! Amount: $3,906.00 Check number: 3154 ! Amount: $200.00
+continued on the next page
+Page 9 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! March 1, 2019 to March 31, 2019
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 3155 ! Amount: $250.00 Check number: 3156 ! Amount: $410.00
+Check number: 3157 ! Amount: $300.00 Check number: 3174 ! Amount: $3,724.00
+Check number: 3175 ! Amount: $750.00 Check number: 3176 ! Amount: $5,943.75
+Page 10 of 10

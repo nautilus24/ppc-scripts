@@ -1,7 +1,7 @@
 import csv
 
 # Specify the name of the input CSV file
-input_file_path = 'scripts/assets/data_square_september.csv'
+input_file_path = 'scripts/assets/data_square_feb24.csv'
 
 # Specify the name of the output CSV file
 output_file_path = 'scripts/assets/commissions/invoice_numbers_raw.csv'

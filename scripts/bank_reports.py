@@ -1,0 +1,33 @@
+import pandas as pd
+
+# New Data
+data = {
+    "Date": [
+        "03/25/20", "03/25/20", "03/25/20", "03/26/20", "03/27/20",
+        "03/27/20", "03/30/20", "03/30/20", "03/30/20", "03/31/20"
+    ],
+    "Description": [
+        "CAPITAL ONE DES:ONLINE PMT ID:008539910214612 INDN:NARAYANANRAM CO ID:9279744991 CCD",
+        "CHASE CREDIT CRD DES:EPAY ID:4605774431 INDN:RAJ NARAYANAN CO ID:5760039224 WEB",
+        "CHASE CREDIT CRD DES:EPAY ID:4605773699 INDN:RAJ NARAYANAN CO ID:5760039224 WEB",
+        "CAPITAL ONE DES:ONLINE PMT ID:008639910236695 INDN:NARAYANANRAM CO ID:9279744991 CCD",
+        "AMERICAN EXPRESS DES:ACH PMT ID:W3674 INDN:Manhattan Entrepreneur CO ID:1133133497 CCD",
+        "AMERICAN EXPRESS DES:ACH PMT ID:W0194 INDN:Manhattan Entrepreneur CO ID:1133133497 CCD",
+        "NJ TLR transfer to CHK 8050 Banking Ctr GLEN ROCK #0070008 NJ Confirmation#1459106861",
+        "CAPITAL ONE DES:ONLINE PMT ID:008839910208994 INDN:NARAYANANRAM CO ID:9279744991 CCD",
+        "AMERICAN EXPRESS DES:ACH PMT ID:W1732 INDN:Manhattan Entrepreneur CO ID:1133133497 CCD",
+        "PAYPAL DES:INST XFER ID:EBAY INC INDN:MANHATTAN ENTREPRENEUR CO ID:PAYPALSI77 WEB"
+    ],
+    "Amount": [
+        -792.62, -219.25, -50.78, -731.55, -992.37,
+        -178.84, -13000.00, -593.85, -304.57, -10.77
+    ]
+}
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Save to Excel
+df.to_excel("financial_data.xlsx", index=False)
+
+print("Excel file 'financial_data_final.xlsx' created successfully.")

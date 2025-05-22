@@ -1,0 +1,472 @@
+Invoice Date,Invoice ID,Invoice Number,Invoice Status,Customer ID,Customer Name,Company Name,Due Date,PurchaseOrder,Currency Code,Exchange Rate,Discount Type,Is Discount Before Tax,Template Name,Entity Discount Percent,WriteOff Date,WriteOff Amount,WriteOff Exchange Rate,SubTotal,Total,Balance,Adjustment,Adjustment Description,Expected Payment Date,Last Payment Date,Payment Terms,Payment Terms Label,Notes,Terms & Conditions,Entity Discount Amount,Branch ID,Branch Name,Shipping Charge,Shipping Charge Tax ID,Shipping Charge Tax Amount,Item Name,Item Desc,Quantity,Discount,Discount Amount,Item Total,Usage unit,Item Price,Expense Reference ID,Recurrence Name,PayPal,Authorize.Net,Google Checkout,Payflow Pro,Stripe,Paytm,2Checkout,Braintree,Forte,WorldPay,Payments Pro,Square,WePay,Razorpay,GoCardless,Partial Payments,Billing Address,Billing City,Billing State,Billing Country,Billing Code,Billing Phone,Billing Fax,Shipping Address,Shipping City,Shipping State,Shipping Country,Shipping Code,Shipping Fax,Shipping Phone Number,SKU,Project ID,Project Name,Round Off,Sales person,Subject,Primary Contact EmailID,Primary Contact Mobile,Primary Contact Phone,Estimate Number
+2024-01-29,2930117000000830383,INV-001497,Closed,2930117000000609133,MINI DREAMERS,MINI DREAMERS,2024-01-29,NR-113023-1,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,794.00,819.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,DELIVERY DATE: 1/15 - 1/31,,0.0,,,25.00,,,HOWDY REPEAT CREW TEE,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HOWDY REPEAT TEE
+CREW TEE | 100% COTTON
+STYLE: PPC-GRSP241202
+C/#: L.PURPLE
+S X 2
+M X 4
+L X 4
+XL X 1",11.00,0.00,0.000,242.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,PPC-GRSP241202,,,0.00,,,,,,
+2024-01-29,2930117000000830383,INV-001497,Closed,2930117000000609133,MINI DREAMERS,MINI DREAMERS,2024-01-29,NR-113023-1,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,794.00,819.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,DELIVERY DATE: 1/15 - 1/31,,0.0,,,25.00,,,KEEP ON SMILING CROP TOP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: KEEP ON SMILING CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24301
+C/#: BLACK
+S X 2
+M X 4
+L X 4
+XL X 2",12.00,0.00,0.000,264.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,PPC-GRSP24301,,,0.00,,,,,,
+2024-01-29,2930117000000830383,INV-001497,Closed,2930117000000609133,MINI DREAMERS,MINI DREAMERS,2024-01-29,NR-113023-1,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,794.00,819.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,DELIVERY DATE: 1/15 - 1/31,,0.0,,,25.00,,,HAPPY FACE SPLATTER DYE CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPY FACE SPLATTER DYE CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-KDSSP1241000
+C/#: WHITE
+S X 2
+M X 4
+L X 4
+XL X 2",12.00,0.00,0.000,288.00,,24.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,PPC-KDSSP1241000,,,0.00,,,,,,
+2024-01-31,2930117000000833029,INV-001504,Closed,2930117000000147405,Such A Deal,Such A Deal,2024-01-31,1840,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,804.00,839.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,NYC BLUR CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: NYC BLUR CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24101
+C/#: WHITE
+M X 2
+L X 2
+XL X 2",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,300 Skokie Blvd E,Northbrook,IL,,60062,,,300 Skokie Blvd E,Northbrook,IL,,60062,,,,,,0.00,,,,,,
+2024-01-31,2930117000000833029,INV-001504,Closed,2930117000000147405,Such A Deal,Such A Deal,2024-01-31,1840,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,804.00,839.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,LOVE SQUARED CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: LOVE SQUARED CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24401
+C/#: WHITE
+M X 1
+L X 2
+XL X 2",5.00,0.00,0.000,110.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,300 Skokie Blvd E,Northbrook,IL,,60062,,,300 Skokie Blvd E,Northbrook,IL,,60062,,,PPC-GRSP24401,,,0.00,,,,,,
+2024-01-31,2930117000000833029,INV-001504,Closed,2930117000000147405,Such A Deal,Such A Deal,2024-01-31,1840,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,804.00,839.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,NYC RAINBOW CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: NYC RAINBOW CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24601
+C/#: WHITE
+M X 1
+L X 2
+XL X 2",5.00,0.00,0.000,110.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,300 Skokie Blvd E,Northbrook,IL,,60062,,,300 Skokie Blvd E,Northbrook,IL,,60062,,,PPC-GRSP24601,,,0.00,,,,,,
+2024-01-31,2930117000000833029,INV-001504,Closed,2930117000000147405,Such A Deal,Such A Deal,2024-01-31,1840,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,804.00,839.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,CALI PHYS. CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: CALI PHYS. CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24201
+C/#: BLACK
+M X 2
+L X 3
+XL X 3",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,300 Skokie Blvd E,Northbrook,IL,,60062,,,300 Skokie Blvd E,Northbrook,IL,,60062,,,PPC-GRSP24201,,,0.00,,,,,,
+2024-01-31,2930117000000833029,INV-001504,Closed,2930117000000147405,Such A Deal,Such A Deal,2024-01-31,1840,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,804.00,839.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,THREE SMILEY CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPINESS MATTERS CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24901
+C/#: BLACK
+M X 2
+L X 2
+XL X 2",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,300 Skokie Blvd E,Northbrook,IL,,60062,,,300 Skokie Blvd E,Northbrook,IL,,60062,,,PPC-GRSP24901,,,0.00,,,,,,
+2024-01-31,2930117000000833029,INV-001504,Closed,2930117000000147405,Such A Deal,Such A Deal,2024-01-31,1840,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,804.00,839.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,HAPPY FACE SPLATTER DYE CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPY FACE SPLATTER DYE CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-KDSSP1241000
+C/#: WHITE
+M X 2
+L X 2
+XL X 2",6.00,0.00,0.000,144.00,,24.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,300 Skokie Blvd E,Northbrook,IL,,60062,,,300 Skokie Blvd E,Northbrook,IL,,60062,,,PPC-KDSSP1241000,,,0.00,,,,,,
+2024-01-29,2930117000000837001,INV-001514,Closed,2930117000000101605,MY KIDS KORNER,MY KIDS KORNER,2024-01-29,1841,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,936.00,971.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,NYC BLUR CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: NYC BLUR CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24101
+C/#: WHITE
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,,,,0.00,,,,,,
+2024-01-29,2930117000000837001,INV-001514,Closed,2930117000000101605,MY KIDS KORNER,MY KIDS KORNER,2024-01-29,1841,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,936.00,971.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,KEEP ON SMILING CROP TOP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: KEEP ON SMILING CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24301
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,PPC-GRSP24301,,,0.00,,,,,,
+2024-01-29,2930117000000837001,INV-001514,Closed,2930117000000101605,MY KIDS KORNER,MY KIDS KORNER,2024-01-29,1841,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,936.00,971.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,LOVE SQUARED CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: LOVE SQUARED CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24401
+C/#: WHITE
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,PPC-GRSP24401,,,0.00,,,,,,
+2024-01-29,2930117000000837001,INV-001514,Closed,2930117000000101605,MY KIDS KORNER,MY KIDS KORNER,2024-01-29,1841,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,936.00,971.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,CALI PHYS. CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: CALI PHYS. CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24201
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,PPC-GRSP24201,,,0.00,,,,,,
+2024-01-29,2930117000000837001,INV-001514,Closed,2930117000000101605,MY KIDS KORNER,MY KIDS KORNER,2024-01-29,1841,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,936.00,971.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,VENICE C.A. CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: VENICE C.A. CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP241101
+C/#: TURQUOISE
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,PPC-GRSP241101,,,0.00,,,,,,
+2024-01-29,2930117000000837001,INV-001514,Closed,2930117000000101605,MY KIDS KORNER,MY KIDS KORNER,2024-01-29,1841,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,936.00,971.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,HAPPY FACE SPLATTER DYE CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPY FACE SPLATTER DYE CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-KDSSP1241000
+C/#: WHITE
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,144.00,,24.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,PPC-KDSSP1241000,,,0.00,,,,,,
+2024-01-29,2930117000000837001,INV-001514,Closed,2930117000000101605,MY KIDS KORNER,MY KIDS KORNER,2024-01-29,1841,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,936.00,971.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,35.00,,,THREE SMILEY CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPINESS MATTERS CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24901
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,719 MONTGOMERY AVE,NARBERTH,PA,,19072,,,PPC-GRSP24901,,,0.00,,,,,,
+2024-02-02,2930117000000854001,INV-001549,Closed,2930117000000486155,Kenzie & Hope,Kenzie & Hope,2024-02-02,1871,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,110.00,125.00,0.00,0.00,Adjustment,,2024-02-02,0,Due on Receipt,Thanks for your business.,,0.0,,,15.00,,,A LITTLE BIT DRAMATIC,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: A LITTLE BIT DRAMATIC
+STYLE: PPC-MNG201  
+C/#: WHITE
+M X 2
+L X 3
+XL X 0 SOLD OUT",5.00,0.00,0.000,110.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"200 Linden St, Wellesley, MA 02482",Wellesley,Massachusetts,U.S.A,02482,,,"200 Linden St, Wellesley, MA 02482",Wellesley,Massachusetts,U.S.A,02482,,,PPC-MNG201,,,0.00,,,,,,
+2024-01-29,2930117000000854057,INV-001553,Closed,2930117000000101479,CHARLOTTE WEST,CHARLOTTE WEST,2024-01-29,1875,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,264.00,284.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,HOWDY REPEAT CREW TEE,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HOWDY REPEAT TEE
+CREW TEE | 100% COTTON
+STYLE: PPC-GRSP241202
+C/#: L.PURPLE
+M X 2
+L X 4
+XL X 0 SOLD OUT",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,100 MAIN STREET,MANASQUAN,NJ,,08736,,,100 MAIN STREET,MANASQUAN,NJ,,08736,,,PPC-GRSP241202,,,0.00,,,,,,
+2024-01-29,2930117000000854057,INV-001553,Closed,2930117000000101479,CHARLOTTE WEST,CHARLOTTE WEST,2024-01-29,1875,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,264.00,284.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,KEEP ON SMILING CREW TEE,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: KEEP ON SMILING TEE
+CREW TEE | 100 % COTTON
+STYLE: PPC-GRSP242202
+C/#: BLACK
+M X 2
+L X 2
+XL X 2",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,100 MAIN STREET,MANASQUAN,NJ,,08736,,,100 MAIN STREET,MANASQUAN,NJ,,08736,,,PPC-GRSP242202,,,0.00,,,,,,
+2024-01-29,2930117000000867020,INV-001558,Closed,2930117000000867001,HAPPY BABY,HAPPY BABY,2024-01-29,1883,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,544.00,569.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,KEEP ON SMILING CROP TOP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: KEEP ON SMILING CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24301
+C/#: BLACK
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,PPC-GRSP24301,,,0.00,,,,,,
+2024-01-29,2930117000000867020,INV-001558,Closed,2930117000000867001,HAPPY BABY,HAPPY BABY,2024-01-29,1883,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,544.00,569.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,HAPPY FACE SPLATTER TEE,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPY FACE SPLATTER TEE
+CREW TEE | 100 % COTTON
+STYLE: PPC-KDSSP1242000
+C/#: WHITE
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,192.00,,24.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,PPC-KDSSP1242000,,,0.00,,,,,,
+2024-01-29,2930117000000867020,INV-001558,Closed,2930117000000867001,HAPPY BABY,HAPPY BABY,2024-01-29,1883,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,544.00,569.00,0.00,0.00,Adjustment,,2024-01-29,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,PEACE TEE,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: PEACE TEE
+CREW TEE | 100 % COTTON
+STYLE: PPC-GRSP241802
+C/#: BLACK
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,PPC-GRSP241802,,,0.00,,,,,,
+2024-01-30,2930117000000882199,INV-001575,Closed,2930117000000120187,Frankies on the Park,Frankies on the Park,2024-01-30,1885 Reorder,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,176.00,191.00,0.00,0.00,Adjustment,,2024-01-30,0,Due on Receipt,Thanks for your business.,,0.0,,,15.00,,,ON WEDNESDAYS WE WEAR PINK,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: ON WEDNESDAYS WE WEAR PINK
+STYLE: PPC-MNG101  
+C/#: Bright PINK
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,1210 W WEBSTER AVE,Chicago,IL,,60614,,,1210 W WEBSTER AVE,Chicago,IL,,60614,,,PPC-MNG101,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: PEACE LOVE WOODSTOCK TEE
+L X 1",1.00,0.00,0.000,20.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: PEACE LOVE WOODSTOCK CROP
+S X 1",1.00,0.00,0.000,20.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: CHEAP TRICK WANT YOU TO WANT TEE
+L X 1",1.00,0.00,0.000,20.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: JANIS JOPLIN PEACE LOVE MUSCLE
+M X 1",1.00,0.00,0.000,20.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: JANIS JOPLIN FAIRY TEE
+L X 1",1.00,0.00,0.000,20.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TOM PETTY WESTERN
+S X 1
+XL X 1",2.00,0.00,0.000,40.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: ALANIS MORISETTE IRONIC TEE
+XL X 1",1.00,0.00,0.000,20.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-01-31,2930117000000883059,INV-001576,Closed,2930117000000883049,STRANDZ CO,STRANDZ CO,2024-01-31,CHRISTI-13124,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,180.00,200.00,0.00,0.00,Adjustment,,2024-01-31,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: ALANIS MORISETTE IRONIC CROP
+M X 1",1.00,0.00,0.000,20.00,,20.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"1027 E 
+APPLE VIEW",,Utah,U.S.A,84655,,,765 E 100 N,,Utah,U.S.A,84651,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886001,INV-001577,Draft,2930117000000101505,DISCO,DISCO,2024-02-02,1934,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,308.00,323.00,323.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,15.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 2
+M X 4
+L X 4
+XL X 4",14.00,0.00,0.000,308.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,289 COURT STREET,BROOKLYN,NY,,11231,,,289 COURT STREET,BROOKLYN,NY,,11231,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886013,INV-001578,Draft,2930117000000101655,Marcias Attic,Marcias Attic,2024-02-02,1933,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,220.00,220.00,220.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,0.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROP
+STYLE: PPC-TS101
+C/#: WHITE
+S X 2
+M X 2
+L X 1
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,29 N. Dean Street,Englewood,NJ,,07631,,,29 N. Dean Street,Englewood,NJ,,07631,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886013,INV-001578,Draft,2930117000000101655,Marcias Attic,Marcias Attic,2024-02-02,1933,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,220.00,220.00,220.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,0.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 2
+M X 1
+L X 1",4.00,0.00,0.000,88.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,29 N. Dean Street,Englewood,NJ,,07631,,,29 N. Dean Street,Englewood,NJ,,07631,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886027,INV-001579,Draft,2930117000000336051,MILLERS,MILLERS,2024-02-02,1887,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,440.00,460.00,460.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,20.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 2
+M X 6
+L X 6
+XL X 6",20.00,0.00,0.000,440.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,335 Mamaroneck Ave,Mamaroneck,New York,U.S.A,10543,,,335 Mamaroneck Ave,Mamaroneck,New York,U.S.A,10543,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886067,INV-001580,Draft,2930117000000886057,YELLOW BRICK ROAD,YELLOW BRICK ROAD,2024-02-02,1891,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,264.00,274.00,274.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,10.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: ELECTION TEE CROPPED
+STYLE: PPC-TS101
+C/#: WHITE
+S X 2
+M X 4
+L X 4
+XL X 2",12.00,0.00,0.000,264.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,6632 WOODLAND HILLS LANE,PLANO,Texas,U.S.A,75024,,,6632 WOODLAND HILLS LANE,PLANO,Texas,U.S.A,75024,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886079,INV-001581,Draft,2930117000000427001,BLUE JEAN BABY,BLUE JEAN BABY,2024-02-02,1892,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,132.00,142.00,142.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,10.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: ELECTION TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 3
+M X 3",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,8039 JERICHO TURNPIKE,WOODBURY,NY,,11797,,,8039 JERICHO TURNPIKE,WOODBURY,NY,,11797,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886091,INV-001582,Draft,2930117000000100033,Eat Your Spinach,Eat Your Spinach,2024-02-02,1894,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,704.00,739.00,739.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,35.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: ELECTION TEE CROP
+STYLE: PPC-TS101
+C/#: WHITE
+S X 4
+M X 4
+L X 4
+XL X 4",16.00,0.00,0.000,352.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,42 East Ridgewood Ave,Ridgewood,NJ,,07450,,,42 East Ridgewood Ave,Ridgewood,NJ,,07450,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886091,INV-001582,Draft,2930117000000100033,Eat Your Spinach,Eat Your Spinach,2024-02-02,1894,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,704.00,739.00,739.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,35.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: ELECTION TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 4
+M X 4
+L X 4
+XL X 4",16.00,0.00,0.000,352.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,42 East Ridgewood Ave,Ridgewood,NJ,,07450,,,42 East Ridgewood Ave,Ridgewood,NJ,,07450,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886105,INV-001583,Draft,2930117000000867001,HAPPY BABY,HAPPY BABY,2024-02-02,1886,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,220.00,230.00,230.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,10.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 2
+M X 3
+L X 3
+XL X 2",10.00,0.00,0.000,220.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,405 W PERRY STREET,CAPE MAY,New Jersey,U.S.A,08024,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886124,INV-001584,Draft,2930117000000872129,BORN YESTERDAY,BORN YESTERDAY,2024-02-02,1888,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,176.00,186.00,186.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,10.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROPPED
+STYLE: PPC-TS101
+C/#: WHITE
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,85 MOSELEY AVE,STATEN ISLAND,NY,U.S.A,10312,,,85 MOSELEY AVE,STATEN ISLAND,NY,U.S.A,10312,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886136,INV-001585,Draft,2930117000000120187,Frankies on the Park,Frankies on the Park,2024-02-02,1889,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,25.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROPPED
+STYLE: PPC-TS101
+C/#: WHITE
+S X 6
+M X 6
+L X 6
+XL X 6",24.00,0.00,0.000,528.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,1210 W WEBSTER AVE,Chicago,IL,,60614,,,1210 W WEBSTER AVE,Chicago,IL,,60614,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886158,INV-001586,Draft,2930117000000886148,MY LUCKY PENNY,MY LUCKY PENNY,2024-02-02,1890,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,264.00,274.00,274.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP 3/1,,0.0,,,10.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROP
+STYLE: PPC-TS101
+C/#: WHITE
+S X 2
+M X 2
+L X 1
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,217 HARRISON AVE,HARRISON,NY,U.S.A,10258,,,217 HARRISON AVE,HARRISON,NY,U.S.A,10258,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886158,INV-001586,Draft,2930117000000886148,MY LUCKY PENNY,MY LUCKY PENNY,2024-02-02,1890,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,264.00,274.00,274.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP 3/1,,0.0,,,10.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 2
+M X 2
+L X 1
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,217 HARRISON AVE,HARRISON,NY,U.S.A,10258,,,217 HARRISON AVE,HARRISON,NY,U.S.A,10258,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886172,INV-001587,Draft,2930117000000609133,MINI DREAMERS,MINI DREAMERS,2024-02-02,NR-2224-1,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,308.00,323.00,323.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,15.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROP
+STYLE: PPC-TS101
+C/#: WHITE
+S X 4
+M X 4
+L X 4
+XL X 2",14.00,0.00,0.000,308.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,"18314 Oxnard St, Unit 7
+Tarzana, CA 91356-1502",,,U.S.A,,,,,,,0.00,,,,,,
+2024-02-02,2930117000000886194,INV-001588,Draft,2930117000000886184,DOTTIE DOLITTLE,DOTTIE DOLITTLE,2024-02-02,NR-2224-2,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,880.00,920.00,920.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,40.00,,,,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES S/S TEE NOT CROP
+STYLE: PPC-TS102
+C/#: WHITE
+S X 10
+M X 10
+L X 10
+XL X 10",40.00,0.00,0.000,880.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"3680 Sacramento Street
+San Francisco, CA 94118",,,U.S.A,,415-673-1334,,"3680 Sacramento Street
+San Francisco, CA 94118",,,U.S.A,,,415-673-1334,,,,0.00,,,,,,
+2024-02-02,2930117000000886215,INV-001589,Draft,2930117000000105001,Cala Kids,Cala Kids,2024-02-02,NR-2224-3,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,TAYLOR FOR PRESIDENT CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROP
+STYLE: PPC-TS101
+C/#: WHITE
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,23675 Calabasas Road,Calabasas,CA,,91302,,,23675 Calabasas Road,Calabasas,CA,,91302,,,PPC-TS101,,,0.00,,,,,,
+2024-02-02,2930117000000886215,INV-001589,Draft,2930117000000105001,Cala Kids,Cala Kids,2024-02-02,NR-2224-3,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,KEEP ON SMILING CROP TOP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: KEEP ON SMILING CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24301
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,23675 Calabasas Road,Calabasas,CA,,91302,,,23675 Calabasas Road,Calabasas,CA,,91302,,,PPC-GRSP24301,,,0.00,,,,,,
+2024-02-02,2930117000000886215,INV-001589,Draft,2930117000000105001,Cala Kids,Cala Kids,2024-02-02,NR-2224-3,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,CALI PHYS. CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: CALI PHYS. CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24201
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,23675 Calabasas Road,Calabasas,CA,,91302,,,23675 Calabasas Road,Calabasas,CA,,91302,,,PPC-GRSP24201,,,0.00,,,,,,
+2024-02-02,2930117000000886215,INV-001589,Draft,2930117000000105001,Cala Kids,Cala Kids,2024-02-02,NR-2224-3,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,THREE SMILEY CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPINESS MATTERS CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24901
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,23675 Calabasas Road,Calabasas,CA,,91302,,,23675 Calabasas Road,Calabasas,CA,,91302,,,PPC-GRSP24901,,,0.00,,,,,,
+2024-02-02,2930117000000886233,INV-001590,Draft,2930117000000680021,CALA KIDS SOUTH LAKE,CALA KIDS SOUTH LAKE,2024-02-02,NR-2224-4,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,TAYLOR FOR PRESIDENT CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROP
+STYLE: PPC-TS101
+C/#: WHITE
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,PPC-TS101,,,0.00,,,,,,
+2024-02-02,2930117000000886233,INV-001590,Draft,2930117000000680021,CALA KIDS SOUTH LAKE,CALA KIDS SOUTH LAKE,2024-02-02,NR-2224-4,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,KEEP ON SMILING CROP TOP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: KEEP ON SMILING CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24301
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,PPC-GRSP24301,,,0.00,,,,,,
+2024-02-02,2930117000000886233,INV-001590,Draft,2930117000000680021,CALA KIDS SOUTH LAKE,CALA KIDS SOUTH LAKE,2024-02-02,NR-2224-4,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,CALI PHYS. CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: CALI PHYS. CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24201
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,PPC-GRSP24201,,,0.00,,,,,,
+2024-02-02,2930117000000886233,INV-001590,Draft,2930117000000680021,CALA KIDS SOUTH LAKE,CALA KIDS SOUTH LAKE,2024-02-02,NR-2224-4,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,528.00,553.00,553.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,25.00,,,THREE SMILEY CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: HAPPINESS MATTERS CROP
+DISTRESSED CROP TOP | 100 % COTTON
+STYLE: PPC-GRSP24901
+C/#: BLACK
+S X 1
+M X 2
+L X 2
+XL X 1",6.00,0.00,0.000,132.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,"2120 E. Southlake Blvd #C
+Southlake, Tx 76092",,,U.S.A,,,,PPC-GRSP24901,,,0.00,,,,,,
+2024-02-02,2930117000000886251,INV-001591,Draft,2930117000000183077,MONKEYS OF ASPEN,MONKEYS OF ASPEN,2024-02-02,NR-2224-5,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,176.00,191.00,191.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,15.00,,,TAYLOR FOR PRESIDENT CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROP
+STYLE: PPC-TS101
+C/#: WHITE
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,409 S. HUNTER STREET,ASPEN,CO,,81611,,,409 S. HUNTER STREET,ASPEN,CO,,81611,,,PPC-TS101,,,0.00,,,,,,
+2024-02-02,2930117000000886272,INV-001592,Draft,2930117000000101479,CHARLOTTE WEST,CHARLOTTE WEST,2024-02-02,1896,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,660.00,690.00,690.00,0.00,Adjustment,,,0,Due on Receipt,START SHIP: 3/1,,0.0,,,30.00,,,TAYLOR FOR PRESIDENT TEE,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES TEE
+STYLE: PPC-TS102
+C/#: WHITE
+S X 2
+M X 10
+L X 10
+XL X 8",30.00,0.00,0.000,660.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,100 MAIN STREET,MANASQUAN,NJ,,08736,,,100 MAIN STREET,MANASQUAN,NJ,,08736,,,PPC-TS102,,,0.00,,,,,,
+2024-02-02,2930117000000886284,INV-001593,Draft,2930117000000498023,ALLIE + THEA,ALLIE + THEA,2024-02-02,CK6483011,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,176.00,191.00,191.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,15.00,,,TAYLOR FOR PRESIDENT TEE,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES TEE
+STYLE: PPC-TAY101
+UPC: PRINPPCTAY101
+C/#: WHITE
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"6510 holly tree circle
+Tyler, TX 75703",,,U.S.A,,,,"6510 holly tree circle
+Tyler, TX 75703",,,U.S.A,,,,PPC-TS102,,,0.00,,,,,,
+2024-02-02,2930117000000886301,INV-001594,Draft,2930117000000697141,SQUARED GIRL,SQUARED GIRL,2024-02-02,CK9942463,USD,1.00,item_level,true,Template-shipTo,0.00,,0.00,1.00,176.00,191.00,191.00,0.00,Adjustment,,,0,Due on Receipt,Thanks for your business.,,0.0,,,15.00,,,TAYLOR FOR PRESIDENT CROP,"BRAND: PRINCE PETER COLLECTION
+DESCRIPTION: TAYLOR FOR PRES CROP
+STYLE: PPC-TAY102
+UPC: PRINPPC-TAY102
+C/#: WHITE
+S X 2
+M X 2
+L X 2
+XL X 2",8.00,0.00,0.000,176.00,,22.00,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,"4052 boxwood cir
+Jackson",,MS,U.S.A,39211,,,4500 I55 North Ste #155,JACKSON,MS,U.S.A,39211,,,PPC-TS101,,,0.00,,,,,,

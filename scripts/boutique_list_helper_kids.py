@@ -11,7 +11,7 @@ df['SubTotal'] = '$' + df['SubTotal'].astype(str)
 
 # Define a function to extract the color from the 'Item Desc' column
 def extract_color(desc):
-    # Regular expression to match color patterns
+    # Regular expression to match color patternsq
     pattern = r'(C/#:|Color:|C#/:)\s*(.*?)(\n|$)'
     match = re.search(pattern, desc, flags=re.IGNORECASE | re.DOTALL)
     if match:

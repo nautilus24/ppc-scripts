@@ -1,0 +1,186 @@
+Withdrawals and other debits -18,255.05
+# of items-previous cycle¹: 61
+Checks -88,292.25
+# of days in cycle: 31
+Service fees -0.00 Average ledger balance: $51,451.66
+Ending balance on August 31, 2019 $42,519.82 ¹Includes checks paid,deposited items&other debits
+PULL: E CYCLE: 67 SPEC: E DELIVERY: E TYPE: IMAGE: I BC: CA2 Page 1 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+IMPORTANT INFORMATION:
+BANK DEPOSIT ACCOUNTS
+How to Contact Us - You may call us at the telephone number listed on the front of this statement.
+Updating your contact information - We encourage you to keep your contact information up-to-date. This includes address, email
+and phone number. If your information has changed, the easiest way to update it is by visiting the Help & Support tab of Online
+Banking.
+Deposit agreement - When you opened your account, you received a deposit agreement and fee schedule and agreed that your
+account would be governed by the terms of these documents, as we may amend them from time to time. These documents are
+part of the contract for your deposit account and govern all transactions relating to your account, including all deposits and
+withdrawals. Copies of both the deposit agreement and fee schedule which contain the current version of the terms and
+conditions of your account relationship may be obtained at our financial centers.
+Electronic transfers: In case of errors or questions about your electronic transfers - If you think your statement or receipt is
+wrong or you need more information about an electronic transfer (e.g., ATM transactions, direct deposits or withdrawals,
+point-of-sale transactions) on the statement or receipt, telephone or write us at the address and number listed on the front of
+this statement as soon as you can. We must hear from you no later than 60 days after we sent you the FIRST statement on
+which the error or problem appeared.
+- Tell us your name and account number.
+- Describe the error or transfer you are unsure about, and explain as clearly as you can why you believe there is an error or
+why you need more information.
+- Tell us the dollar amount of the suspected error.
+For consumer accounts used primarily for personal, family or household purposes, we will investigate your complaint and will
+correct any error promptly. If we take more than 10 business days (10 calendar days if you are a Massachusetts customer) (20
+business days if you are a new customer, for electronic transfers occurring during the first 30 days after the first deposit is
+made to your account) to do this, we will provisionally credit your account for the amount you think is in error, so that you will
+have use of the money during the time it will take to complete our investigation.
+For other accounts, we investigate, and if we find we have made an error, we credit your account at the conclusion of our
+investigation.
+Reporting other problems - You must examine your statement carefully and promptly. You are in the best position to discover
+errors and unauthorized transactions on your account. If you fail to notify us in writing of suspected problems or an unauthorized
+transaction within the time period specified in the deposit agreement (which periods are no more than 60 days after we make
+the statement available to you and in some cases are 30 days or less), we are not liable to you and you agree to not make a
+claim against us, for the problems or unauthorized transactions.
+Direct deposits - If you have arranged to have direct deposits made to your account at least once every 60 days from the same
+person or company, you may call us to find out if the deposit was made as scheduled. You may also review your activity online or
+visit a financial center for information.
+© 2019 Bank of America Corporation
+Page 2 of 10
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+Deposits and other credits
+Date Description Amount
+08/09/19 BKOFAMERICA ATM 08/09 #000005081 DEPOSIT 95 WALL STREET NEW YORK NY 50,876.65
+08/09/19 BKOFAMERICA ATM 08/09 #000002683 DEPOSIT 95 WALL STREET NEW YORK NY 260.00
+08/15/19 WIRE TYPE:WIRE IN DATE: 190815 TIME:0507 ET TRN:2019081500039533 530.00
+SEQ:US01226KU0190808/021911 ORIG:MADAME FARIDAH YARISAL ET ID:CH14002792791808
+SND BK:UBS AG STAMFORD BRANCH ID:0799 PMT DET:ZD81 227TI6649180THE CORNER
+GENEVA
+08/16/19 BKOFAMERICA ATM 08/16 #000006284 DEPOSIT 95 WALL STREET NEW YORK NY 25,057.20
+08/16/19 7878782339 DES:LULUS-FSHN ID:V-13774 INDN:PRECISION APPAREL MANU CO 3,375.00
+ID:1208442468 CCD
+08/19/19 BKOFAMERICA ATM 08/17 #000004105 DEPOSIT 95 WALL STREET NEW YORK NY 1,596.53
+08/19/19 WIRE TYPE:WIRE IN DATE: 190819 TIME:0951 ET TRN:2019081900299610 1,225.00
+SEQ:S0692312244601/324423 ORIG:OPERADORA DE TIENDAS INTE ID:01498054 SND BK:
+CITIBANK, N.A. ID:0008 PMT DET:PAYMENTO TO PROVIDE R / INVOICE NO
+08/21/19 URBAN OUTFITTERS DES:EDI PYMNTS ID:386426 INDN:RAJ NARAYANAN CO 1,278.00
+ID:2232003332 CCD
+08/22/19 BKOFAMERICA ATM 08/21 #000007474 DEPOSIT 95 WALL STREET NEW YORK NY 21,444.00
+08/26/19 NJ TLR transfer 8,000.00
+08/26/19 BKOFAMERICA ATM 08/24 #000005209 DEPOSIT 95 WALL STREET NEW YORK NY 1,349.00
+08/26/19 BKOFAMERICA ATM 08/24 #000005228 DEPOSIT 95 WALL STREET NEW YORK NY 1,078.00
+Total deposits and other credits $116,069.38
+Withdrawals and other debits
+Date Description Amount
+08/08/19 CA TLR cash withdrawal from CHK 8050 -4,500.00
+08/12/19 AMERICAN EXPRESS DES:ACH PMT ID:W4160 INDN:Precision Apparel Manu CO -829.60
+ID:1133133497 WEB
+08/19/19 AMERICAN EXPRESS DES:ACH PMT ID:W2870 INDN:Precision Apparel Manu CO -374.89
+ID:1133133497 WEB
+continued on the next page
+Page 3 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+Withdrawals and other debits - continued
+Date Description Amount
+08/21/19 CHASE CREDIT CRD DES:EPAY ID:4262687599 INDN:571952815838136 CO -4,095.00
+ID:5760039224 TEL
+08/28/19 CHASE CREDIT CRD DES:EPAY ID:4272733601 INDN:BALAN NARAYANAN CO -4,718.91
+ID:5760039224 WEB
+08/29/19 KMF DES:KMFUSA.com ID:1813947941 INDN:Precision Apparel Manu CO -371.40
+ID:9200704262 PPD
+08/30/19 AMERICAN EXPRESS DES:ACH PMT ID:W9096 INDN:Precision Apparel Manu CO -423.97
+ID:1133133497 CCD
+Card account # XXXX XXXX XXXX 8908
+08/05/19 BKOFAMERICA ATM 08/04 #000009225 WITHDRWL LINCOLN-TUSTIN ORANGE CA -300.00
+08/05/19 BKOFAMERICA ATM 08/05 #000009540 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+08/07/19 BKOFAMERICA ATM 08/07 #000001314 WITHDRWL LINCOLN-TUSTIN ORANGE CA -100.00
+08/12/19 BKOFAMERICA ATM 08/11 #000006792 WITHDRWL PARADISE VALLEY LAS VEGAS NV -100.00
+08/14/19 CHECKCARD 0813 SQ *LAS VEGAS CONVENTIO Las Vegas NV 24692169225100990547526 -10.00
+CKCD 4722 XXXXXXXXXXXX8908 XXXX XXXX XXXX 8908
+08/14/19 CHECKCARD 0814 ARCO #42075 AM BAKER CA CKCD 5542 XXXXXXXXXXXX8908 XXXX -73.59
+XXXX XXXX 8908
+08/16/19 CHECKCARD 0816 ARCO #42056 AM SANTA FE SPRICA CKCD 5542 XXXXXXXXXXXX8908 XXXX -57.69
+XXXX XXXX 8908
+08/16/19 BKOFAMERICA ATM 08/16 #000004344 WITHDRWL LINCOLN-TUSTIN ORANGE CA -500.00
+08/23/19 BKOFAMERICA ATM 08/23 #000006671 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+08/30/19 BKOFAMERICA ATM 08/30 #000008933 WITHDRWL LINCOLN-TUSTIN ORANGE CA -600.00
+Subtotal for card account # XXXX XXXX XXXX 8908 -$2,941.28
+Total withdrawals and other debits -$18,255.05
+Checks
+Date Check # Amount Date Check # Amount
+08/16/19 3167 -25.00 08/08/19 3308* -1,565.00
+08/05/19 3245* -3,306.30 08/12/19 3309 -1,907.50
+08/07/19 3246 -312.20 08/12/19 3310 -3,987.70
+08/19/19 3247 -25,000.00 08/20/19 3313* -3,334.00
+08/20/19 3248 -5,432.09 08/26/19 3314 -897.75
+08/21/19 3249 -3,959.65 08/27/19 3322* -5,000.00
+08/27/19 3250 -3,078.00 08/19/19 3328* -1,591.62
+08/26/19 3251 -5,173.75 08/19/19 3329 -665.55
+08/19/19 3283* -5,000.00 08/23/19 3330 -1,125.00
+08/21/19 3294* -2,700.00 08/23/19 3331 -5,284.00
+08/16/19 3296* -710.95 08/26/19 3332 -2,961.00
+08/06/19 3299* -4,142.00 08/12/19 3447* -150.00
+08/02/19 3306* -983.19
+Total checks -$88,292.25
+Total # of checks 25
+* There is a gap in sequential check numbers
+Page 4 of 10
+Your checking account
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+Service fees
+The Monthly Fee on your Business Advantage Checking account was waived for the statement period ending 07/31/19. A check mark below
+indicates the requirement(s) you have met to qualify for the Monthly Fee waiver on the account.
+$2,500+ in new net purchases on a linked Business credit card
+$15,000+ average monthly balance in primary checking account
+$35,000+ combined average monthly balance in linked business accounts
+active use of Bank of America Merchant Services
+active use of Payroll Services
+enrolled in Business Advantage Relationship Rewards
+For information on how to open a new product, link an existing service to your account, or about Business Advantage Relationship Rewards
+please call 1.888.BUSINESS or visit bankofamerica.com/smallbusiness.
+Date Transaction description Amount
+08/15/19 Bus Adv Rel Rwds-Wire Fee Waiver of $15 -0.00
+08/16/19 Bus Adv Rel Rwds-Stop Pymt Fee Waiver of $30 -0.00
+08/19/19 Bus Adv Rel Rwds-Wire Fee Waiver of $15 -0.00
+Total service fees -$0.00
+Note your Ending Balance already reflects the subtraction of Service Fees.
+Daily ledger balances
+Date Balance ($) Date Balance($) Date Balance ($)
+08/01 32,997.74 08/12 61,350.90 08/22 62,326.60
+08/02 32,014.55 08/14 61,267.31 08/23 55,317.60
+08/05 27,808.25 08/15 61,797.31 08/26 56,712.10
+08/06 23,666.25 08/16 88,935.87 08/27 48,634.10
+08/07 23,254.05 08/19 59,125.34 08/28 43,915.19
+08/08 17,189.05 08/20 50,359.25 08/29 43,543.79
+08/09 68,325.70 08/21 40,882.60 08/30 42,519.82
+Page 5 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+This page intentionally left blank
+Page 6 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+Check images
+Account number: 3250 8139 8050
+Check number: 3167 ! Amount: $25.00 Check number: 3245 ! Amount: $3,306.30
+Check number: 3246 ! Amount: $312.20 Check number: 3247 ! Amount: $25,000.00
+Check number: 3248 ! Amount: $5,432.09 Check number: 3249 ! Amount: $3,959.65
+Check number: 3250 ! Amount: $3,078.00 Check number: 3251 ! Amount: $5,173.75
+Check number: 3283 ! Amount: $5,000.00 Check number: 3294 ! Amount: $2,700.00
+continued on the next page
+Page 7 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 3296 ! Amount: $710.95 Check number: 3299 ! Amount: $4,142.00
+Check number: 3306 ! Amount: $983.19 Check number: 3308 ! Amount: $1,565.00
+Check number: 3309 ! Amount: $1,907.50 Check number: 3310 ! Amount: $3,987.70
+Check number: 3313 ! Amount: $3,334.00 Check number: 3314 ! Amount: $897.75
+Check number: 3322 ! Amount: $5,000.00 Check number: 3328 ! Amount: $1,591.62
+continued on the next page
+Page 8 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+Check images - continued
+Account number: 3250 8139 8050
+Check number: 3329 ! Amount: $665.55 Check number: 3330 ! Amount: $1,125.00
+Check number: 3331 ! Amount: $5,284.00 Check number: 3332 ! Amount: $2,961.00
+Check number: 3447 ! Amount: $150.00
+Page 9 of 10
+PRECISION APPAREL MANUFACTURING LLC ! Account # 3250 8139 8050 ! August 1, 2019 to August 31, 2019
+This page intentionally left blank
+Page 10 of 10
